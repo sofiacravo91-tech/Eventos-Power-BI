@@ -1,0 +1,1378 @@
+pedido_id,evento,data_hora,canal,local_venda,item,categoria_item,quantidade
+1,Liga,2026-05-10 19:56:00,Online,Online,Pizza,Comida,2
+2,Liga,2026-05-10 19:34:00,Offline,Piso 3,Vinho,Bebida,1
+2,Liga,2026-05-10 19:34:00,Offline,Piso 3,Hambúrguer,Comida,3
+3,Champions,2026-05-10 20:36:00,Offline,Stand C,Cocktail,Bebida,1
+3,Champions,2026-05-10 20:36:00,Offline,Stand C,Nachos,Comida,1
+4,Champions,2026-05-10 19:50:00,Online,Online,Cerveja,Bebida,1
+4,Champions,2026-05-10 19:50:00,Online,Online,Cocktail,Bebida,3
+4,Champions,2026-05-10 19:50:00,Online,Online,Vinho,Bebida,2
+5,Liga,2026-05-10 20:15:00,Offline,Piso 0,Nachos,Comida,3
+5,Liga,2026-05-10 20:15:00,Offline,Piso 0,Cocktail,Bebida,1
+6,Champions,2026-05-10 19:33:00,Offline,Piso 0,Merchandising,Outros,1
+6,Champions,2026-05-10 19:33:00,Offline,Piso 0,Água,Bebida,2
+7,Champions,2026-05-10 20:34:00,Online,Online,Água,Bebida,3
+7,Champions,2026-05-10 20:34:00,Online,Online,Refrigerante,Bebida,2
+7,Champions,2026-05-10 20:34:00,Online,Online,Cocktail,Bebida,1
+8,Champions,2026-05-10 19:37:00,Online,Online,Merchandising,Outros,1
+8,Champions,2026-05-10 19:37:00,Online,Online,Água,Bebida,3
+8,Champions,2026-05-10 19:37:00,Online,Online,Hot Dog,Comida,3
+9,Liga,2026-05-10 20:18:00,Online,Online,Cerveja,Bebida,3
+9,Liga,2026-05-10 20:18:00,Online,Online,Água,Bebida,3
+9,Liga,2026-05-10 20:18:00,Online,Online,Hot Dog,Comida,1
+10,Liga,2026-05-10 19:37:00,Online,Online,Batata Frita,Comida,3
+11,Champions,2026-05-10 19:27:00,Offline,Stand B,Nachos,Comida,3
+11,Champions,2026-05-10 19:27:00,Offline,Stand B,Refrigerante,Bebida,1
+12,Champions,2026-05-10 19:51:00,Offline,Stand C,Batata Frita,Comida,1
+13,Liga,2026-05-10 19:52:00,Offline,Piso 3,Merchandising,Outros,3
+13,Liga,2026-05-10 19:52:00,Offline,Piso 3,Cerveja,Bebida,3
+14,Liga,2026-05-10 20:37:00,Online,Online,Cocktail,Bebida,3
+15,Liga,2026-05-10 20:32:00,Online,Online,Batata Frita,Comida,2
+16,Liga,2026-05-10 20:41:00,Offline,Stand C,Refrigerante,Bebida,2
+17,Liga,2026-05-10 19:03:00,Online,Online,Vinho,Bebida,3
+17,Liga,2026-05-10 19:03:00,Online,Online,Nachos,Comida,1
+17,Liga,2026-05-10 19:03:00,Online,Online,Pizza,Comida,3
+18,Liga,2026-05-10 19:50:00,Offline,Stand B,Hambúrguer,Comida,2
+19,Liga,2026-05-10 20:28:00,Online,Online,Hambúrguer,Comida,3
+19,Liga,2026-05-10 20:28:00,Online,Online,Vinho,Bebida,3
+19,Liga,2026-05-10 20:28:00,Online,Online,Hot Dog,Comida,3
+20,Liga,2026-05-10 20:16:00,Offline,Camarote,Cerveja,Bebida,3
+20,Liga,2026-05-10 20:16:00,Offline,Camarote,Merchandising,Outros,2
+21,Champions,2026-05-10 19:00:00,Offline,Camarote,Merchandising,Outros,2
+22,Champions,2026-05-10 19:48:00,Offline,Stand C,Batata Frita,Comida,3
+22,Champions,2026-05-10 19:48:00,Offline,Stand C,Cerveja,Bebida,3
+23,Liga,2026-05-10 20:41:00,Online,Online,Cerveja,Bebida,1
+23,Liga,2026-05-10 20:41:00,Online,Online,Pizza,Comida,2
+24,Liga,2026-05-10 19:53:00,Offline,Stand A,Batata Frita,Comida,3
+25,Champions,2026-05-10 19:49:00,Offline,Stand B,Cocktail,Bebida,1
+25,Champions,2026-05-10 19:49:00,Offline,Stand B,Pizza,Comida,2
+26,Liga,2026-05-10 20:10:00,Online,Online,Vinho,Bebida,1
+26,Liga,2026-05-10 20:10:00,Online,Online,Merchandising,Outros,1
+26,Liga,2026-05-10 20:10:00,Online,Online,Refrigerante,Bebida,3
+27,Liga,2026-05-10 19:37:00,Online,Online,Nachos,Comida,1
+28,Liga,2026-05-10 20:35:00,Offline,Piso 0,Batata Frita,Comida,1
+29,Liga,2026-05-10 20:28:00,Offline,Piso 3,Refrigerante,Bebida,2
+30,Liga,2026-05-10 20:40:00,Online,Online,Água,Bebida,3
+30,Liga,2026-05-10 20:40:00,Online,Online,Refrigerante,Bebida,2
+31,Champions,2026-05-10 19:31:00,Offline,Stand C,Vinho,Bebida,1
+32,Liga,2026-05-10 20:27:00,Offline,Stand C,Refrigerante,Bebida,1
+33,Liga,2026-05-10 20:39:00,Offline,Stand B,Merchandising,Outros,1
+34,Champions,2026-05-10 19:38:00,Offline,Stand C,Nachos,Comida,1
+35,Liga,2026-05-10 20:40:00,Online,Online,Nachos,Comida,3
+35,Liga,2026-05-10 20:40:00,Online,Online,Cerveja,Bebida,3
+35,Liga,2026-05-10 20:40:00,Online,Online,Batata Frita,Comida,3
+36,Liga,2026-05-10 20:04:00,Online,Online,Refrigerante,Bebida,2
+37,Liga,2026-05-10 19:26:00,Online,Online,Merchandising,Outros,1
+37,Liga,2026-05-10 19:26:00,Online,Online,Vinho,Bebida,2
+38,Liga,2026-05-10 20:11:00,Offline,Piso 3,Hot Dog,Comida,2
+38,Liga,2026-05-10 20:11:00,Offline,Piso 3,Nachos,Comida,2
+39,Champions,2026-05-10 19:23:00,Offline,Stand A,Batata Frita,Comida,1
+39,Champions,2026-05-10 19:23:00,Offline,Stand A,Merchandising,Outros,2
+40,Liga,2026-05-10 19:46:00,Offline,Piso 0,Batata Frita,Comida,3
+40,Liga,2026-05-10 19:46:00,Offline,Piso 0,Refrigerante,Bebida,1
+41,Liga,2026-05-10 19:56:00,Online,Online,Cocktail,Bebida,2
+41,Liga,2026-05-10 19:56:00,Online,Online,Pizza,Comida,3
+42,Champions,2026-05-10 19:01:00,Online,Online,Pizza,Comida,1
+43,Liga,2026-05-10 19:50:00,Online,Online,Água,Bebida,3
+44,Champions,2026-05-10 19:57:00,Offline,Piso 0,Cerveja,Bebida,3
+45,Liga,2026-05-10 20:33:00,Offline,Stand A,Vinho,Bebida,2
+46,Liga,2026-05-10 20:13:00,Online,Online,Batata Frita,Comida,1
+47,Champions,2026-05-10 20:03:00,Offline,Piso 3,Refrigerante,Bebida,1
+48,Champions,2026-05-10 19:22:00,Offline,Camarote,Merchandising,Outros,2
+49,Champions,2026-05-10 19:49:00,Offline,Piso 3,Água,Bebida,3
+49,Champions,2026-05-10 19:49:00,Offline,Piso 3,Cerveja,Bebida,1
+50,Liga,2026-05-10 19:24:00,Online,Online,Cerveja,Bebida,3
+50,Liga,2026-05-10 19:24:00,Online,Online,Vinho,Bebida,2
+50,Liga,2026-05-10 19:24:00,Online,Online,Hot Dog,Comida,2
+51,Champions,2026-05-10 19:06:00,Offline,Stand B,Hambúrguer,Comida,3
+52,Champions,2026-05-10 20:23:00,Offline,Piso 3,Hot Dog,Comida,3
+52,Champions,2026-05-10 20:23:00,Offline,Piso 3,Merchandising,Outros,3
+53,Liga,2026-05-10 19:28:00,Online,Online,Cocktail,Bebida,1
+53,Liga,2026-05-10 19:28:00,Online,Online,Merchandising,Outros,1
+54,Liga,2026-05-10 19:26:00,Offline,Stand C,Refrigerante,Bebida,1
+54,Liga,2026-05-10 19:26:00,Offline,Stand C,Cerveja,Bebida,3
+55,Liga,2026-05-10 19:50:00,Offline,Piso 3,Merchandising,Outros,3
+55,Liga,2026-05-10 19:50:00,Offline,Piso 3,Vinho,Bebida,2
+56,Champions,2026-05-10 19:51:00,Offline,Stand C,Merchandising,Outros,3
+56,Champions,2026-05-10 19:51:00,Offline,Stand C,Nachos,Comida,2
+57,Champions,2026-05-10 19:58:00,Offline,Piso 3,Refrigerante,Bebida,3
+57,Champions,2026-05-10 19:58:00,Offline,Piso 3,Hambúrguer,Comida,1
+58,Liga,2026-05-10 20:16:00,Online,Online,Pizza,Comida,1
+58,Liga,2026-05-10 20:16:00,Online,Online,Cerveja,Bebida,1
+58,Liga,2026-05-10 20:16:00,Online,Online,Refrigerante,Bebida,2
+59,Champions,2026-05-10 20:12:00,Online,Online,Cerveja,Bebida,3
+59,Champions,2026-05-10 20:12:00,Online,Online,Vinho,Bebida,2
+60,Champions,2026-05-10 19:23:00,Offline,Camarote,Vinho,Bebida,3
+61,Champions,2026-05-10 19:46:00,Online,Online,Cocktail,Bebida,1
+61,Champions,2026-05-10 19:46:00,Online,Online,Água,Bebida,1
+62,Champions,2026-05-10 20:02:00,Online,Online,Hambúrguer,Comida,3
+62,Champions,2026-05-10 20:02:00,Online,Online,Pizza,Comida,3
+63,Champions,2026-05-10 19:43:00,Online,Online,Vinho,Bebida,2
+63,Champions,2026-05-10 19:43:00,Online,Online,Nachos,Comida,2
+64,Liga,2026-05-10 19:05:00,Online,Online,Refrigerante,Bebida,1
+65,Liga,2026-05-10 19:25:00,Offline,Stand B,Água,Bebida,1
+65,Liga,2026-05-10 19:25:00,Offline,Stand B,Cerveja,Bebida,2
+66,Champions,2026-05-10 20:38:00,Offline,Stand C,Refrigerante,Bebida,2
+67,Champions,2026-05-10 19:49:00,Online,Online,Cocktail,Bebida,2
+67,Champions,2026-05-10 19:49:00,Online,Online,Refrigerante,Bebida,3
+67,Champions,2026-05-10 19:49:00,Online,Online,Nachos,Comida,1
+68,Champions,2026-05-10 19:48:00,Offline,Stand B,Batata Frita,Comida,3
+68,Champions,2026-05-10 19:48:00,Offline,Stand B,Hambúrguer,Comida,2
+69,Champions,2026-05-10 19:21:00,Online,Online,Merchandising,Outros,3
+70,Liga,2026-05-10 20:26:00,Offline,Piso 0,Refrigerante,Bebida,1
+70,Liga,2026-05-10 20:26:00,Offline,Piso 0,Nachos,Comida,2
+71,Champions,2026-05-10 20:09:00,Online,Online,Batata Frita,Comida,3
+71,Champions,2026-05-10 20:09:00,Online,Online,Hambúrguer,Comida,2
+71,Champions,2026-05-10 20:09:00,Online,Online,Hot Dog,Comida,3
+72,Liga,2026-05-10 19:55:00,Offline,Piso 3,Hambúrguer,Comida,3
+72,Liga,2026-05-10 19:55:00,Offline,Piso 3,Vinho,Bebida,2
+73,Liga,2026-05-10 19:53:00,Online,Online,Cerveja,Bebida,2
+73,Liga,2026-05-10 19:53:00,Online,Online,Cocktail,Bebida,1
+73,Liga,2026-05-10 19:53:00,Online,Online,Merchandising,Outros,3
+74,Champions,2026-05-10 19:52:00,Offline,Piso 3,Vinho,Bebida,2
+74,Champions,2026-05-10 19:52:00,Offline,Piso 3,Hot Dog,Comida,3
+75,Liga,2026-05-10 20:23:00,Online,Online,Batata Frita,Comida,2
+75,Liga,2026-05-10 20:23:00,Online,Online,Cocktail,Bebida,2
+75,Liga,2026-05-10 20:23:00,Online,Online,Hot Dog,Comida,1
+76,Liga,2026-05-10 19:52:00,Online,Online,Cocktail,Bebida,1
+76,Liga,2026-05-10 19:52:00,Online,Online,Hot Dog,Comida,1
+76,Liga,2026-05-10 19:52:00,Online,Online,Batata Frita,Comida,3
+77,Champions,2026-05-10 19:07:00,Offline,Camarote,Merchandising,Outros,1
+77,Champions,2026-05-10 19:07:00,Offline,Camarote,Refrigerante,Bebida,1
+78,Liga,2026-05-10 20:14:00,Online,Online,Nachos,Comida,2
+79,Champions,2026-05-10 19:46:00,Offline,Stand B,Batata Frita,Comida,3
+79,Champions,2026-05-10 19:46:00,Offline,Stand B,Vinho,Bebida,2
+80,Champions,2026-05-10 20:42:00,Offline,Piso 3,Pizza,Comida,1
+80,Champions,2026-05-10 20:42:00,Offline,Piso 3,Hot Dog,Comida,3
+81,Liga,2026-05-10 20:31:00,Online,Online,Hot Dog,Comida,2
+81,Liga,2026-05-10 20:31:00,Online,Online,Água,Bebida,3
+81,Liga,2026-05-10 20:31:00,Online,Online,Vinho,Bebida,2
+82,Liga,2026-05-10 19:13:00,Offline,Piso 3,Merchandising,Outros,3
+83,Champions,2026-05-10 19:51:00,Offline,Stand C,Merchandising,Outros,1
+84,Champions,2026-05-10 20:29:00,Offline,Stand A,Nachos,Comida,2
+84,Champions,2026-05-10 20:29:00,Offline,Stand A,Cerveja,Bebida,3
+85,Champions,2026-05-10 19:50:00,Offline,Piso 0,Cerveja,Bebida,1
+86,Liga,2026-05-10 20:07:00,Offline,Camarote,Vinho,Bebida,2
+87,Liga,2026-05-10 19:23:00,Offline,Stand C,Hot Dog,Comida,1
+88,Champions,2026-05-10 19:48:00,Online,Online,Batata Frita,Comida,3
+89,Liga,2026-05-10 19:56:00,Online,Online,Merchandising,Outros,3
+89,Liga,2026-05-10 19:56:00,Online,Online,Pizza,Comida,3
+90,Champions,2026-05-10 19:04:00,Offline,Stand B,Cocktail,Bebida,3
+91,Liga,2026-05-10 19:58:00,Offline,Camarote,Batata Frita,Comida,1
+91,Liga,2026-05-10 19:58:00,Offline,Camarote,Refrigerante,Bebida,2
+92,Champions,2026-05-10 20:38:00,Offline,Stand C,Merchandising,Outros,2
+92,Champions,2026-05-10 20:38:00,Offline,Stand C,Refrigerante,Bebida,1
+93,Liga,2026-05-10 19:45:00,Online,Online,Pizza,Comida,1
+93,Liga,2026-05-10 19:45:00,Online,Online,Batata Frita,Comida,2
+93,Liga,2026-05-10 19:45:00,Online,Online,Merchandising,Outros,1
+94,Liga,2026-05-10 19:07:00,Online,Online,Água,Bebida,3
+94,Liga,2026-05-10 19:07:00,Online,Online,Hot Dog,Comida,3
+94,Liga,2026-05-10 19:07:00,Online,Online,Batata Frita,Comida,3
+95,Champions,2026-05-10 19:25:00,Online,Online,Água,Bebida,3
+96,Liga,2026-05-10 19:59:00,Online,Online,Refrigerante,Bebida,3
+96,Liga,2026-05-10 19:59:00,Online,Online,Batata Frita,Comida,1
+97,Champions,2026-05-10 19:27:00,Online,Online,Batata Frita,Comida,2
+97,Champions,2026-05-10 19:27:00,Online,Online,Hot Dog,Comida,2
+98,Liga,2026-05-10 19:59:00,Offline,Piso 0,Cocktail,Bebida,2
+99,Champions,2026-05-10 19:59:00,Online,Online,Nachos,Comida,3
+99,Champions,2026-05-10 19:59:00,Online,Online,Vinho,Bebida,1
+99,Champions,2026-05-10 19:59:00,Online,Online,Cerveja,Bebida,3
+100,Liga,2026-05-10 19:01:00,Offline,Piso 0,Hot Dog,Comida,3
+101,Champions,2026-05-10 19:52:00,Online,Online,Hot Dog,Comida,3
+101,Champions,2026-05-10 19:52:00,Online,Online,Cerveja,Bebida,3
+101,Champions,2026-05-10 19:52:00,Online,Online,Hambúrguer,Comida,3
+102,Liga,2026-05-10 20:43:00,Online,Online,Pizza,Comida,1
+102,Liga,2026-05-10 20:43:00,Online,Online,Vinho,Bebida,2
+102,Liga,2026-05-10 20:43:00,Online,Online,Hambúrguer,Comida,1
+103,Champions,2026-05-10 20:34:00,Online,Online,Vinho,Bebida,1
+103,Champions,2026-05-10 20:34:00,Online,Online,Refrigerante,Bebida,3
+104,Liga,2026-05-10 19:21:00,Offline,Stand B,Vinho,Bebida,1
+105,Champions,2026-05-10 19:52:00,Offline,Camarote,Cerveja,Bebida,3
+106,Liga,2026-05-10 20:21:00,Offline,Piso 3,Hot Dog,Comida,2
+107,Champions,2026-05-10 19:42:00,Offline,Piso 3,Cocktail,Bebida,3
+107,Champions,2026-05-10 19:42:00,Offline,Piso 3,Hambúrguer,Comida,2
+108,Liga,2026-05-10 20:17:00,Online,Online,Cerveja,Bebida,1
+109,Champions,2026-05-10 20:39:00,Online,Online,Batata Frita,Comida,3
+109,Champions,2026-05-10 20:39:00,Online,Online,Água,Bebida,3
+110,Champions,2026-05-10 19:59:00,Online,Online,Hambúrguer,Comida,2
+110,Champions,2026-05-10 19:59:00,Online,Online,Água,Bebida,1
+110,Champions,2026-05-10 19:59:00,Online,Online,Batata Frita,Comida,3
+111,Liga,2026-05-10 19:25:00,Online,Online,Pizza,Comida,3
+111,Liga,2026-05-10 19:25:00,Online,Online,Batata Frita,Comida,2
+112,Liga,2026-05-10 19:57:00,Online,Online,Nachos,Comida,2
+113,Champions,2026-05-10 19:54:00,Offline,Piso 3,Vinho,Bebida,3
+113,Champions,2026-05-10 19:54:00,Offline,Piso 3,Pizza,Comida,1
+114,Liga,2026-05-10 19:45:00,Offline,Stand B,Água,Bebida,1
+114,Liga,2026-05-10 19:45:00,Offline,Stand B,Hambúrguer,Comida,2
+115,Champions,2026-05-10 20:17:00,Online,Online,Cerveja,Bebida,2
+115,Champions,2026-05-10 20:17:00,Online,Online,Hambúrguer,Comida,3
+115,Champions,2026-05-10 20:17:00,Online,Online,Vinho,Bebida,2
+116,Champions,2026-05-10 19:50:00,Online,Online,Hambúrguer,Comida,1
+117,Liga,2026-05-10 20:12:00,Offline,Piso 3,Batata Frita,Comida,1
+118,Champions,2026-05-10 19:56:00,Online,Online,Cocktail,Bebida,3
+118,Champions,2026-05-10 19:56:00,Online,Online,Merchandising,Outros,1
+119,Liga,2026-05-10 20:19:00,Online,Online,Cerveja,Bebida,3
+120,Champions,2026-05-10 19:54:00,Offline,Stand C,Pizza,Comida,1
+120,Champions,2026-05-10 19:54:00,Offline,Stand C,Vinho,Bebida,2
+121,Liga,2026-05-10 19:10:00,Online,Online,Cerveja,Bebida,3
+122,Champions,2026-05-10 19:46:00,Online,Online,Hambúrguer,Comida,3
+122,Champions,2026-05-10 19:46:00,Online,Online,Pizza,Comida,3
+122,Champions,2026-05-10 19:46:00,Online,Online,Água,Bebida,3
+123,Champions,2026-05-10 19:55:00,Offline,Piso 0,Cocktail,Bebida,3
+124,Liga,2026-05-10 19:40:00,Online,Online,Hot Dog,Comida,1
+124,Liga,2026-05-10 19:40:00,Online,Online,Vinho,Bebida,1
+124,Liga,2026-05-10 19:40:00,Online,Online,Cerveja,Bebida,3
+125,Liga,2026-05-10 19:13:00,Online,Online,Batata Frita,Comida,3
+126,Champions,2026-05-10 20:24:00,Online,Online,Água,Bebida,2
+126,Champions,2026-05-10 20:24:00,Online,Online,Vinho,Bebida,3
+126,Champions,2026-05-10 20:24:00,Online,Online,Hambúrguer,Comida,2
+127,Liga,2026-05-10 19:32:00,Offline,Piso 3,Hot Dog,Comida,3
+127,Liga,2026-05-10 19:32:00,Offline,Piso 3,Cerveja,Bebida,3
+128,Champions,2026-05-10 19:58:00,Online,Online,Batata Frita,Comida,3
+128,Champions,2026-05-10 19:58:00,Online,Online,Hambúrguer,Comida,1
+128,Champions,2026-05-10 19:58:00,Online,Online,Água,Bebida,3
+129,Liga,2026-05-10 20:43:00,Offline,Camarote,Cocktail,Bebida,1
+130,Liga,2026-05-10 19:19:00,Offline,Stand B,Cocktail,Bebida,3
+131,Champions,2026-05-10 19:10:00,Online,Online,Merchandising,Outros,1
+131,Champions,2026-05-10 19:10:00,Online,Online,Cerveja,Bebida,3
+131,Champions,2026-05-10 19:10:00,Online,Online,Pizza,Comida,3
+132,Liga,2026-05-10 19:57:00,Offline,Camarote,Refrigerante,Bebida,3
+132,Liga,2026-05-10 19:57:00,Offline,Camarote,Hambúrguer,Comida,1
+133,Champions,2026-05-10 19:50:00,Online,Online,Hambúrguer,Comida,2
+133,Champions,2026-05-10 19:50:00,Online,Online,Refrigerante,Bebida,1
+134,Champions,2026-05-10 20:23:00,Offline,Stand B,Cerveja,Bebida,1
+135,Liga,2026-05-10 20:34:00,Offline,Piso 0,Nachos,Comida,3
+136,Champions,2026-05-10 19:56:00,Online,Online,Água,Bebida,2
+136,Champions,2026-05-10 19:56:00,Online,Online,Hot Dog,Comida,1
+137,Champions,2026-05-10 19:39:00,Offline,Piso 3,Água,Bebida,2
+137,Champions,2026-05-10 19:39:00,Offline,Piso 3,Pizza,Comida,2
+138,Champions,2026-05-10 19:47:00,Online,Online,Hambúrguer,Comida,1
+139,Champions,2026-05-10 20:28:00,Offline,Piso 0,Vinho,Bebida,1
+139,Champions,2026-05-10 20:28:00,Offline,Piso 0,Hambúrguer,Comida,1
+140,Liga,2026-05-10 19:07:00,Offline,Piso 0,Água,Bebida,1
+141,Liga,2026-05-10 19:58:00,Online,Online,Hot Dog,Comida,3
+142,Champions,2026-05-10 19:20:00,Online,Online,Pizza,Comida,1
+143,Champions,2026-05-10 19:20:00,Offline,Stand A,Pizza,Comida,3
+144,Champions,2026-05-10 19:55:00,Offline,Stand C,Batata Frita,Comida,2
+145,Liga,2026-05-10 20:35:00,Online,Online,Merchandising,Outros,2
+145,Liga,2026-05-10 20:35:00,Online,Online,Água,Bebida,2
+145,Liga,2026-05-10 20:35:00,Online,Online,Nachos,Comida,3
+146,Champions,2026-05-10 19:54:00,Offline,Piso 3,Pizza,Comida,2
+147,Champions,2026-05-10 19:39:00,Offline,Stand C,Cerveja,Bebida,2
+147,Champions,2026-05-10 19:39:00,Offline,Stand C,Hot Dog,Comida,1
+148,Champions,2026-05-10 19:46:00,Online,Online,Cerveja,Bebida,1
+149,Liga,2026-05-10 20:34:00,Online,Online,Pizza,Comida,2
+150,Liga,2026-05-10 20:15:00,Online,Online,Nachos,Comida,1
+150,Liga,2026-05-10 20:15:00,Online,Online,Hot Dog,Comida,2
+150,Liga,2026-05-10 20:15:00,Online,Online,Merchandising,Outros,3
+151,Champions,2026-05-10 20:37:00,Offline,Stand A,Merchandising,Outros,3
+152,Liga,2026-05-10 20:02:00,Online,Online,Refrigerante,Bebida,2
+152,Liga,2026-05-10 20:02:00,Online,Online,Batata Frita,Comida,3
+152,Liga,2026-05-10 20:02:00,Online,Online,Hot Dog,Comida,3
+153,Champions,2026-05-10 19:07:00,Online,Online,Cocktail,Bebida,3
+154,Champions,2026-05-10 19:49:00,Online,Online,Vinho,Bebida,2
+154,Champions,2026-05-10 19:49:00,Online,Online,Hambúrguer,Comida,2
+154,Champions,2026-05-10 19:49:00,Online,Online,Hot Dog,Comida,2
+155,Champions,2026-05-10 19:19:00,Offline,Stand A,Merchandising,Outros,2
+155,Champions,2026-05-10 19:19:00,Offline,Stand A,Vinho,Bebida,2
+156,Liga,2026-05-10 20:41:00,Offline,Piso 0,Cocktail,Bebida,2
+156,Liga,2026-05-10 20:41:00,Offline,Piso 0,Batata Frita,Comida,3
+157,Champions,2026-05-10 19:55:00,Online,Online,Cerveja,Bebida,3
+158,Champions,2026-05-10 20:28:00,Online,Online,Hot Dog,Comida,2
+158,Champions,2026-05-10 20:28:00,Online,Online,Refrigerante,Bebida,1
+159,Champions,2026-05-10 20:25:00,Offline,Stand B,Hot Dog,Comida,1
+159,Champions,2026-05-10 20:25:00,Offline,Stand B,Vinho,Bebida,2
+160,Champions,2026-05-10 19:56:00,Offline,Stand C,Cerveja,Bebida,2
+161,Liga,2026-05-10 20:33:00,Online,Online,Água,Bebida,3
+161,Liga,2026-05-10 20:33:00,Online,Online,Batata Frita,Comida,3
+162,Champions,2026-05-10 20:26:00,Online,Online,Refrigerante,Bebida,2
+163,Liga,2026-05-10 19:55:00,Online,Online,Refrigerante,Bebida,2
+164,Champions,2026-05-10 19:23:00,Online,Online,Batata Frita,Comida,2
+164,Champions,2026-05-10 19:23:00,Online,Online,Cocktail,Bebida,1
+165,Champions,2026-05-10 20:39:00,Offline,Camarote,Hot Dog,Comida,3
+166,Champions,2026-05-10 19:55:00,Online,Online,Água,Bebida,1
+166,Champions,2026-05-10 19:55:00,Online,Online,Pizza,Comida,1
+166,Champions,2026-05-10 19:55:00,Online,Online,Cerveja,Bebida,2
+167,Liga,2026-05-10 19:59:00,Offline,Stand B,Vinho,Bebida,3
+167,Liga,2026-05-10 19:59:00,Offline,Stand B,Merchandising,Outros,1
+168,Champions,2026-05-10 19:02:00,Online,Online,Água,Bebida,1
+168,Champions,2026-05-10 19:02:00,Online,Online,Vinho,Bebida,3
+169,Liga,2026-05-10 20:11:00,Online,Online,Cocktail,Bebida,2
+169,Liga,2026-05-10 20:11:00,Online,Online,Pizza,Comida,2
+169,Liga,2026-05-10 20:11:00,Online,Online,Cerveja,Bebida,1
+170,Liga,2026-05-10 20:31:00,Offline,Stand B,Hot Dog,Comida,3
+170,Liga,2026-05-10 20:31:00,Offline,Stand B,Nachos,Comida,1
+171,Liga,2026-05-10 19:51:00,Online,Online,Refrigerante,Bebida,3
+172,Champions,2026-05-10 19:54:00,Offline,Piso 0,Água,Bebida,3
+173,Champions,2026-05-10 19:58:00,Offline,Stand B,Água,Bebida,3
+174,Liga,2026-05-10 19:59:00,Offline,Stand B,Batata Frita,Comida,1
+175,Champions,2026-05-10 19:19:00,Online,Online,Merchandising,Outros,3
+175,Champions,2026-05-10 19:19:00,Online,Online,Cocktail,Bebida,3
+176,Champions,2026-05-10 19:55:00,Offline,Stand A,Cocktail,Bebida,3
+177,Liga,2026-05-10 19:40:00,Offline,Piso 3,Cocktail,Bebida,1
+177,Liga,2026-05-10 19:40:00,Offline,Piso 3,Hambúrguer,Comida,2
+178,Liga,2026-05-10 19:57:00,Online,Online,Refrigerante,Bebida,3
+179,Liga,2026-05-10 19:23:00,Online,Online,Água,Bebida,2
+179,Liga,2026-05-10 19:23:00,Online,Online,Batata Frita,Comida,3
+180,Champions,2026-05-10 19:58:00,Online,Online,Cerveja,Bebida,2
+181,Champions,2026-05-10 19:06:00,Offline,Stand C,Merchandising,Outros,2
+182,Liga,2026-05-10 20:35:00,Online,Online,Merchandising,Outros,1
+183,Liga,2026-05-10 20:36:00,Offline,Stand A,Hot Dog,Comida,2
+184,Champions,2026-05-10 20:31:00,Online,Online,Água,Bebida,3
+184,Champions,2026-05-10 20:31:00,Online,Online,Nachos,Comida,3
+185,Champions,2026-05-10 19:24:00,Online,Online,Cocktail,Bebida,1
+185,Champions,2026-05-10 19:24:00,Online,Online,Merchandising,Outros,3
+185,Champions,2026-05-10 19:24:00,Online,Online,Hot Dog,Comida,3
+186,Champions,2026-05-10 19:08:00,Online,Online,Hot Dog,Comida,3
+186,Champions,2026-05-10 19:08:00,Online,Online,Água,Bebida,3
+186,Champions,2026-05-10 19:08:00,Online,Online,Batata Frita,Comida,2
+187,Champions,2026-05-10 19:53:00,Offline,Piso 3,Vinho,Bebida,2
+187,Champions,2026-05-10 19:53:00,Offline,Piso 3,Hambúrguer,Comida,3
+188,Liga,2026-05-10 19:55:00,Online,Online,Hot Dog,Comida,2
+188,Liga,2026-05-10 19:55:00,Online,Online,Refrigerante,Bebida,2
+188,Liga,2026-05-10 19:55:00,Online,Online,Cerveja,Bebida,3
+189,Liga,2026-05-10 19:11:00,Offline,Stand C,Cerveja,Bebida,2
+190,Champions,2026-05-10 19:48:00,Offline,Piso 3,Refrigerante,Bebida,2
+191,Champions,2026-05-10 19:48:00,Online,Online,Refrigerante,Bebida,2
+191,Champions,2026-05-10 19:48:00,Online,Online,Pizza,Comida,2
+192,Champions,2026-05-10 20:35:00,Online,Online,Água,Bebida,1
+193,Champions,2026-05-10 19:15:00,Online,Online,Hot Dog,Comida,1
+194,Champions,2026-05-10 19:59:00,Offline,Piso 3,Vinho,Bebida,3
+195,Liga,2026-05-10 19:58:00,Offline,Piso 0,Merchandising,Outros,1
+195,Liga,2026-05-10 19:58:00,Offline,Piso 0,Cocktail,Bebida,1
+196,Liga,2026-05-10 19:57:00,Online,Online,Vinho,Bebida,1
+196,Liga,2026-05-10 19:57:00,Online,Online,Cerveja,Bebida,3
+196,Liga,2026-05-10 19:57:00,Online,Online,Cocktail,Bebida,2
+197,Champions,2026-05-10 19:55:00,Online,Online,Batata Frita,Comida,3
+197,Champions,2026-05-10 19:55:00,Online,Online,Vinho,Bebida,2
+197,Champions,2026-05-10 19:55:00,Online,Online,Hot Dog,Comida,1
+198,Liga,2026-05-10 19:58:00,Online,Online,Merchandising,Outros,3
+198,Liga,2026-05-10 19:58:00,Online,Online,Cocktail,Bebida,3
+199,Champions,2026-05-10 20:42:00,Online,Online,Hambúrguer,Comida,3
+199,Champions,2026-05-10 20:42:00,Online,Online,Merchandising,Outros,1
+200,Liga,2026-05-10 19:30:00,Offline,Piso 0,Cerveja,Bebida,2
+200,Liga,2026-05-10 19:30:00,Offline,Piso 0,Vinho,Bebida,1
+201,Liga,2026-05-10 19:52:00,Online,Online,Pizza,Comida,2
+201,Liga,2026-05-10 19:52:00,Online,Online,Vinho,Bebida,2
+202,Champions,2026-05-10 20:15:00,Offline,Stand C,Refrigerante,Bebida,1
+203,Liga,2026-05-10 20:35:00,Offline,Piso 0,Hot Dog,Comida,2
+204,Champions,2026-05-10 19:57:00,Offline,Camarote,Cerveja,Bebida,2
+205,Liga,2026-05-10 19:15:00,Online,Online,Merchandising,Outros,2
+205,Liga,2026-05-10 19:15:00,Online,Online,Hambúrguer,Comida,1
+206,Liga,2026-05-10 19:52:00,Online,Online,Refrigerante,Bebida,3
+206,Liga,2026-05-10 19:52:00,Online,Online,Água,Bebida,3
+207,Liga,2026-05-10 19:45:00,Offline,Stand B,Nachos,Comida,3
+207,Liga,2026-05-10 19:45:00,Offline,Stand B,Merchandising,Outros,2
+208,Liga,2026-05-10 19:42:00,Online,Online,Refrigerante,Bebida,3
+208,Liga,2026-05-10 19:42:00,Online,Online,Água,Bebida,2
+209,Liga,2026-05-10 20:07:00,Offline,Piso 0,Merchandising,Outros,1
+209,Liga,2026-05-10 20:07:00,Offline,Piso 0,Hot Dog,Comida,3
+210,Champions,2026-05-10 19:47:00,Offline,Stand B,Batata Frita,Comida,3
+210,Champions,2026-05-10 19:47:00,Offline,Stand B,Merchandising,Outros,2
+211,Champions,2026-05-10 20:40:00,Online,Online,Vinho,Bebida,3
+211,Champions,2026-05-10 20:40:00,Online,Online,Merchandising,Outros,2
+212,Liga,2026-05-10 20:07:00,Offline,Camarote,Cocktail,Bebida,1
+212,Liga,2026-05-10 20:07:00,Offline,Camarote,Cerveja,Bebida,2
+213,Champions,2026-05-10 19:26:00,Offline,Camarote,Hot Dog,Comida,2
+213,Champions,2026-05-10 19:26:00,Offline,Camarote,Cocktail,Bebida,2
+214,Liga,2026-05-10 20:35:00,Online,Online,Refrigerante,Bebida,1
+215,Liga,2026-05-10 19:55:00,Offline,Piso 0,Hambúrguer,Comida,1
+216,Champions,2026-05-10 19:49:00,Online,Online,Batata Frita,Comida,1
+217,Champions,2026-05-10 19:51:00,Offline,Stand B,Refrigerante,Bebida,1
+217,Champions,2026-05-10 19:51:00,Offline,Stand B,Hot Dog,Comida,1
+218,Champions,2026-05-10 19:01:00,Offline,Stand C,Cocktail,Bebida,2
+219,Champions,2026-05-10 19:50:00,Online,Online,Hambúrguer,Comida,1
+219,Champions,2026-05-10 19:50:00,Online,Online,Nachos,Comida,3
+220,Champions,2026-05-10 20:04:00,Offline,Stand C,Pizza,Comida,2
+220,Champions,2026-05-10 20:04:00,Offline,Stand C,Cerveja,Bebida,2
+221,Champions,2026-05-10 19:20:00,Offline,Camarote,Hot Dog,Comida,1
+221,Champions,2026-05-10 19:20:00,Offline,Camarote,Hambúrguer,Comida,2
+222,Liga,2026-05-10 20:36:00,Offline,Stand A,Cerveja,Bebida,1
+223,Liga,2026-05-10 20:29:00,Online,Online,Hot Dog,Comida,1
+223,Liga,2026-05-10 20:29:00,Online,Online,Cocktail,Bebida,1
+224,Champions,2026-05-10 19:23:00,Offline,Stand C,Nachos,Comida,1
+225,Liga,2026-05-10 19:17:00,Offline,Stand A,Batata Frita,Comida,2
+225,Liga,2026-05-10 19:17:00,Offline,Stand A,Vinho,Bebida,2
+226,Liga,2026-05-10 19:51:00,Offline,Stand B,Pizza,Comida,1
+226,Liga,2026-05-10 19:51:00,Offline,Stand B,Hambúrguer,Comida,3
+227,Liga,2026-05-10 19:41:00,Online,Online,Vinho,Bebida,3
+227,Liga,2026-05-10 19:41:00,Online,Online,Cerveja,Bebida,2
+227,Liga,2026-05-10 19:41:00,Online,Online,Merchandising,Outros,2
+228,Liga,2026-05-10 19:39:00,Offline,Stand C,Pizza,Comida,3
+229,Liga,2026-05-10 19:15:00,Online,Online,Refrigerante,Bebida,3
+229,Liga,2026-05-10 19:15:00,Online,Online,Pizza,Comida,2
+229,Liga,2026-05-10 19:15:00,Online,Online,Hot Dog,Comida,2
+230,Liga,2026-05-10 19:52:00,Offline,Piso 0,Batata Frita,Comida,1
+230,Liga,2026-05-10 19:52:00,Offline,Piso 0,Hambúrguer,Comida,2
+231,Champions,2026-05-10 19:28:00,Online,Online,Hot Dog,Comida,2
+232,Champions,2026-05-10 19:38:00,Offline,Stand A,Cerveja,Bebida,3
+232,Champions,2026-05-10 19:38:00,Offline,Stand A,Pizza,Comida,1
+233,Liga,2026-05-10 20:42:00,Offline,Piso 3,Batata Frita,Comida,1
+234,Champions,2026-05-10 19:23:00,Online,Online,Água,Bebida,3
+235,Liga,2026-05-10 20:17:00,Offline,Stand A,Hot Dog,Comida,3
+236,Champions,2026-05-10 19:58:00,Online,Online,Refrigerante,Bebida,1
+237,Champions,2026-05-10 19:46:00,Online,Online,Água,Bebida,3
+237,Champions,2026-05-10 19:46:00,Online,Online,Hot Dog,Comida,1
+237,Champions,2026-05-10 19:46:00,Online,Online,Vinho,Bebida,3
+238,Champions,2026-05-10 19:09:00,Offline,Camarote,Cerveja,Bebida,3
+239,Liga,2026-05-10 19:53:00,Offline,Stand B,Merchandising,Outros,1
+239,Liga,2026-05-10 19:53:00,Offline,Stand B,Hot Dog,Comida,1
+240,Champions,2026-05-10 19:19:00,Offline,Stand B,Vinho,Bebida,2
+240,Champions,2026-05-10 19:19:00,Offline,Stand B,Cerveja,Bebida,1
+241,Liga,2026-05-10 19:45:00,Online,Online,Refrigerante,Bebida,2
+242,Liga,2026-05-10 20:01:00,Online,Online,Pizza,Comida,1
+242,Liga,2026-05-10 20:01:00,Online,Online,Cocktail,Bebida,1
+243,Liga,2026-05-10 19:19:00,Offline,Piso 3,Hot Dog,Comida,1
+243,Liga,2026-05-10 19:19:00,Offline,Piso 3,Vinho,Bebida,3
+244,Champions,2026-05-10 19:45:00,Offline,Camarote,Cocktail,Bebida,1
+245,Liga,2026-05-10 19:33:00,Online,Online,Hot Dog,Comida,1
+245,Liga,2026-05-10 19:33:00,Online,Online,Nachos,Comida,2
+245,Liga,2026-05-10 19:33:00,Online,Online,Cocktail,Bebida,3
+246,Champions,2026-05-10 19:47:00,Offline,Stand B,Vinho,Bebida,1
+247,Champions,2026-05-10 19:39:00,Offline,Stand C,Cerveja,Bebida,3
+247,Champions,2026-05-10 19:39:00,Offline,Stand C,Hambúrguer,Comida,2
+248,Champions,2026-05-10 19:58:00,Online,Online,Batata Frita,Comida,3
+248,Champions,2026-05-10 19:58:00,Online,Online,Nachos,Comida,3
+249,Champions,2026-05-10 19:58:00,Online,Online,Batata Frita,Comida,1
+250,Liga,2026-05-10 19:08:00,Online,Online,Pizza,Comida,1
+250,Liga,2026-05-10 19:08:00,Online,Online,Nachos,Comida,2
+250,Liga,2026-05-10 19:08:00,Online,Online,Vinho,Bebida,1
+251,Liga,2026-05-10 20:27:00,Offline,Piso 3,Merchandising,Outros,1
+252,Liga,2026-05-10 20:25:00,Offline,Stand B,Água,Bebida,2
+252,Liga,2026-05-10 20:25:00,Offline,Stand B,Hot Dog,Comida,3
+253,Liga,2026-05-10 19:54:00,Online,Online,Pizza,Comida,2
+254,Liga,2026-05-10 19:47:00,Offline,Piso 0,Água,Bebida,2
+255,Liga,2026-05-10 19:33:00,Online,Online,Cerveja,Bebida,1
+255,Liga,2026-05-10 19:33:00,Online,Online,Água,Bebida,3
+256,Liga,2026-05-10 20:07:00,Offline,Camarote,Cerveja,Bebida,3
+257,Champions,2026-05-10 20:28:00,Offline,Piso 3,Vinho,Bebida,2
+258,Liga,2026-05-10 20:40:00,Online,Online,Hambúrguer,Comida,3
+258,Liga,2026-05-10 20:40:00,Online,Online,Hot Dog,Comida,2
+258,Liga,2026-05-10 20:40:00,Online,Online,Água,Bebida,1
+259,Liga,2026-05-10 20:33:00,Online,Online,Pizza,Comida,2
+259,Liga,2026-05-10 20:33:00,Online,Online,Cerveja,Bebida,3
+260,Liga,2026-05-10 19:54:00,Offline,Piso 3,Merchandising,Outros,1
+260,Liga,2026-05-10 19:54:00,Offline,Piso 3,Cocktail,Bebida,3
+261,Champions,2026-05-10 19:03:00,Offline,Piso 0,Merchandising,Outros,2
+261,Champions,2026-05-10 19:03:00,Offline,Piso 0,Cocktail,Bebida,2
+262,Champions,2026-05-10 19:07:00,Offline,Stand C,Cerveja,Bebida,1
+262,Champions,2026-05-10 19:07:00,Offline,Stand C,Hot Dog,Comida,2
+263,Liga,2026-05-10 20:02:00,Online,Online,Pizza,Comida,2
+264,Liga,2026-05-10 19:46:00,Offline,Piso 0,Merchandising,Outros,2
+264,Liga,2026-05-10 19:46:00,Offline,Piso 0,Nachos,Comida,1
+265,Liga,2026-05-10 19:45:00,Offline,Piso 3,Refrigerante,Bebida,3
+265,Liga,2026-05-10 19:45:00,Offline,Piso 3,Água,Bebida,1
+266,Liga,2026-05-10 19:56:00,Offline,Stand A,Hot Dog,Comida,3
+267,Liga,2026-05-10 20:18:00,Offline,Piso 0,Refrigerante,Bebida,1
+268,Liga,2026-05-10 19:12:00,Online,Online,Cocktail,Bebida,3
+268,Liga,2026-05-10 19:12:00,Online,Online,Vinho,Bebida,2
+269,Champions,2026-05-10 19:50:00,Offline,Stand C,Nachos,Comida,1
+269,Champions,2026-05-10 19:50:00,Offline,Stand C,Batata Frita,Comida,3
+270,Champions,2026-05-10 20:18:00,Online,Online,Refrigerante,Bebida,2
+270,Champions,2026-05-10 20:18:00,Online,Online,Hambúrguer,Comida,2
+271,Liga,2026-05-10 20:42:00,Offline,Piso 0,Vinho,Bebida,1
+271,Liga,2026-05-10 20:42:00,Offline,Piso 0,Água,Bebida,1
+272,Champions,2026-05-10 19:50:00,Offline,Piso 0,Refrigerante,Bebida,1
+273,Liga,2026-05-10 19:46:00,Offline,Stand C,Hambúrguer,Comida,1
+273,Liga,2026-05-10 19:46:00,Offline,Stand C,Hot Dog,Comida,2
+274,Champions,2026-05-10 20:07:00,Online,Online,Batata Frita,Comida,2
+275,Liga,2026-05-10 19:47:00,Online,Online,Hot Dog,Comida,1
+276,Liga,2026-05-10 19:56:00,Offline,Piso 0,Batata Frita,Comida,1
+277,Champions,2026-05-10 19:45:00,Online,Online,Merchandising,Outros,1
+277,Champions,2026-05-10 19:45:00,Online,Online,Pizza,Comida,2
+278,Champions,2026-05-10 19:17:00,Online,Online,Pizza,Comida,1
+279,Liga,2026-05-10 19:54:00,Offline,Stand B,Água,Bebida,1
+279,Liga,2026-05-10 19:54:00,Offline,Stand B,Cerveja,Bebida,1
+280,Liga,2026-05-10 19:27:00,Offline,Stand A,Hot Dog,Comida,2
+280,Liga,2026-05-10 19:27:00,Offline,Stand A,Hambúrguer,Comida,1
+281,Champions,2026-05-10 19:47:00,Online,Online,Hot Dog,Comida,1
+281,Champions,2026-05-10 19:47:00,Online,Online,Nachos,Comida,2
+281,Champions,2026-05-10 19:47:00,Online,Online,Cocktail,Bebida,2
+282,Champions,2026-05-10 20:27:00,Offline,Stand A,Água,Bebida,2
+282,Champions,2026-05-10 20:27:00,Offline,Stand A,Merchandising,Outros,1
+283,Champions,2026-05-10 20:07:00,Offline,Piso 3,Vinho,Bebida,2
+284,Champions,2026-05-10 19:15:00,Offline,Piso 3,Refrigerante,Bebida,3
+285,Champions,2026-05-10 19:43:00,Online,Online,Nachos,Comida,2
+286,Liga,2026-05-10 20:31:00,Offline,Piso 0,Hambúrguer,Comida,2
+287,Champions,2026-05-10 19:24:00,Offline,Piso 3,Refrigerante,Bebida,1
+288,Champions,2026-05-10 19:51:00,Online,Online,Merchandising,Outros,1
+289,Liga,2026-05-10 19:22:00,Online,Online,Merchandising,Outros,2
+290,Champions,2026-05-10 19:17:00,Offline,Camarote,Cerveja,Bebida,2
+290,Champions,2026-05-10 19:17:00,Offline,Camarote,Vinho,Bebida,1
+291,Liga,2026-05-10 20:36:00,Offline,Stand C,Nachos,Comida,1
+291,Liga,2026-05-10 20:36:00,Offline,Stand C,Cerveja,Bebida,2
+292,Liga,2026-05-10 19:55:00,Offline,Stand A,Batata Frita,Comida,1
+292,Liga,2026-05-10 19:55:00,Offline,Stand A,Nachos,Comida,1
+293,Champions,2026-05-10 19:02:00,Online,Online,Vinho,Bebida,3
+293,Champions,2026-05-10 19:02:00,Online,Online,Batata Frita,Comida,2
+293,Champions,2026-05-10 19:02:00,Online,Online,Cocktail,Bebida,2
+294,Liga,2026-05-10 19:01:00,Offline,Stand B,Cerveja,Bebida,3
+295,Liga,2026-05-10 19:15:00,Offline,Stand C,Nachos,Comida,1
+296,Liga,2026-05-10 20:38:00,Offline,Stand B,Batata Frita,Comida,2
+296,Liga,2026-05-10 20:38:00,Offline,Stand B,Pizza,Comida,3
+297,Champions,2026-05-10 20:10:00,Offline,Camarote,Cerveja,Bebida,3
+297,Champions,2026-05-10 20:10:00,Offline,Camarote,Hambúrguer,Comida,1
+298,Champions,2026-05-10 19:35:00,Online,Online,Batata Frita,Comida,2
+299,Champions,2026-05-10 20:28:00,Offline,Camarote,Cocktail,Bebida,2
+300,Liga,2026-05-10 20:22:00,Online,Online,Batata Frita,Comida,1
+300,Liga,2026-05-10 20:22:00,Online,Online,Cerveja,Bebida,3
+301,Liga,2026-05-10 19:32:00,Online,Online,Cocktail,Bebida,3
+301,Liga,2026-05-10 19:32:00,Online,Online,Vinho,Bebida,3
+301,Liga,2026-05-10 19:32:00,Online,Online,Refrigerante,Bebida,3
+302,Champions,2026-05-10 19:57:00,Online,Online,Vinho,Bebida,2
+303,Champions,2026-05-10 19:21:00,Online,Online,Água,Bebida,3
+304,Liga,2026-05-10 19:50:00,Offline,Stand B,Água,Bebida,1
+305,Liga,2026-05-10 19:53:00,Online,Online,Hot Dog,Comida,1
+305,Liga,2026-05-10 19:53:00,Online,Online,Cerveja,Bebida,3
+306,Champions,2026-05-10 20:01:00,Online,Online,Vinho,Bebida,2
+307,Liga,2026-05-10 19:26:00,Online,Online,Hot Dog,Comida,3
+307,Liga,2026-05-10 19:26:00,Online,Online,Cerveja,Bebida,2
+307,Liga,2026-05-10 19:26:00,Online,Online,Merchandising,Outros,1
+308,Champions,2026-05-10 19:56:00,Offline,Stand C,Nachos,Comida,1
+308,Champions,2026-05-10 19:56:00,Offline,Stand C,Pizza,Comida,3
+309,Liga,2026-05-10 19:52:00,Online,Online,Hot Dog,Comida,2
+309,Liga,2026-05-10 19:52:00,Online,Online,Vinho,Bebida,3
+310,Liga,2026-05-10 19:31:00,Online,Online,Cocktail,Bebida,3
+311,Champions,2026-05-10 20:16:00,Offline,Piso 3,Cerveja,Bebida,1
+311,Champions,2026-05-10 20:16:00,Offline,Piso 3,Pizza,Comida,2
+312,Champions,2026-05-10 20:35:00,Online,Online,Hot Dog,Comida,1
+313,Champions,2026-05-10 19:31:00,Online,Online,Hambúrguer,Comida,1
+314,Liga,2026-05-10 19:59:00,Online,Online,Cocktail,Bebida,2
+314,Liga,2026-05-10 19:59:00,Online,Online,Hot Dog,Comida,3
+314,Liga,2026-05-10 19:59:00,Online,Online,Água,Bebida,3
+315,Champions,2026-05-10 19:27:00,Offline,Piso 3,Água,Bebida,3
+315,Champions,2026-05-10 19:27:00,Offline,Piso 3,Nachos,Comida,2
+316,Liga,2026-05-10 19:17:00,Online,Online,Pizza,Comida,2
+316,Liga,2026-05-10 19:17:00,Online,Online,Nachos,Comida,3
+316,Liga,2026-05-10 19:17:00,Online,Online,Hambúrguer,Comida,3
+317,Liga,2026-05-10 20:16:00,Offline,Stand A,Pizza,Comida,2
+318,Liga,2026-05-10 19:45:00,Online,Online,Refrigerante,Bebida,2
+319,Champions,2026-05-10 20:02:00,Online,Online,Merchandising,Outros,3
+320,Champions,2026-05-10 19:10:00,Online,Online,Cerveja,Bebida,1
+320,Champions,2026-05-10 19:10:00,Online,Online,Nachos,Comida,2
+321,Champions,2026-05-10 19:03:00,Offline,Stand A,Água,Bebida,2
+322,Liga,2026-05-10 19:52:00,Online,Online,Hot Dog,Comida,2
+323,Champions,2026-05-10 19:50:00,Online,Online,Batata Frita,Comida,3
+323,Champions,2026-05-10 19:50:00,Online,Online,Cocktail,Bebida,1
+323,Champions,2026-05-10 19:50:00,Online,Online,Hambúrguer,Comida,3
+324,Liga,2026-05-10 20:13:00,Online,Online,Cocktail,Bebida,1
+324,Liga,2026-05-10 20:13:00,Online,Online,Batata Frita,Comida,2
+325,Champions,2026-05-10 19:12:00,Online,Online,Cerveja,Bebida,2
+326,Liga,2026-05-10 20:09:00,Online,Online,Cerveja,Bebida,2
+327,Liga,2026-05-10 19:16:00,Online,Online,Pizza,Comida,2
+327,Liga,2026-05-10 19:16:00,Online,Online,Hambúrguer,Comida,2
+327,Liga,2026-05-10 19:16:00,Online,Online,Cocktail,Bebida,3
+328,Champions,2026-05-10 19:02:00,Offline,Piso 3,Batata Frita,Comida,1
+328,Champions,2026-05-10 19:02:00,Offline,Piso 3,Pizza,Comida,3
+329,Champions,2026-05-10 19:59:00,Online,Online,Cerveja,Bebida,1
+329,Champions,2026-05-10 19:59:00,Online,Online,Refrigerante,Bebida,1
+329,Champions,2026-05-10 19:59:00,Online,Online,Batata Frita,Comida,1
+330,Liga,2026-05-10 19:50:00,Online,Online,Refrigerante,Bebida,3
+330,Liga,2026-05-10 19:50:00,Online,Online,Água,Bebida,2
+330,Liga,2026-05-10 19:50:00,Online,Online,Hot Dog,Comida,3
+331,Champions,2026-05-10 20:43:00,Online,Online,Hambúrguer,Comida,1
+332,Liga,2026-05-10 20:28:00,Online,Online,Água,Bebida,1
+332,Liga,2026-05-10 20:28:00,Online,Online,Hot Dog,Comida,1
+333,Champions,2026-05-10 19:10:00,Offline,Stand A,Vinho,Bebida,2
+334,Liga,2026-05-10 19:35:00,Online,Online,Cocktail,Bebida,3
+335,Champions,2026-05-10 19:02:00,Online,Online,Refrigerante,Bebida,2
+336,Liga,2026-05-10 19:50:00,Offline,Camarote,Vinho,Bebida,3
+336,Liga,2026-05-10 19:50:00,Offline,Camarote,Refrigerante,Bebida,1
+337,Champions,2026-05-10 19:20:00,Online,Online,Merchandising,Outros,3
+337,Champions,2026-05-10 19:20:00,Online,Online,Pizza,Comida,3
+338,Liga,2026-05-10 20:17:00,Offline,Piso 0,Cerveja,Bebida,2
+338,Liga,2026-05-10 20:17:00,Offline,Piso 0,Nachos,Comida,1
+339,Liga,2026-05-10 19:27:00,Online,Online,Nachos,Comida,3
+340,Champions,2026-05-10 19:54:00,Offline,Piso 3,Hot Dog,Comida,3
+340,Champions,2026-05-10 19:54:00,Offline,Piso 3,Vinho,Bebida,3
+341,Champions,2026-05-10 19:09:00,Offline,Piso 0,Cocktail,Bebida,3
+342,Champions,2026-05-10 20:12:00,Offline,Stand A,Merchandising,Outros,2
+343,Champions,2026-05-10 20:44:00,Online,Online,Cocktail,Bebida,2
+343,Champions,2026-05-10 20:44:00,Online,Online,Nachos,Comida,3
+343,Champions,2026-05-10 20:44:00,Online,Online,Vinho,Bebida,3
+344,Champions,2026-05-10 20:37:00,Offline,Camarote,Hambúrguer,Comida,2
+345,Liga,2026-05-10 19:44:00,Online,Online,Cerveja,Bebida,2
+346,Champions,2026-05-10 19:06:00,Offline,Stand B,Refrigerante,Bebida,3
+346,Champions,2026-05-10 19:06:00,Offline,Stand B,Vinho,Bebida,2
+347,Champions,2026-05-10 19:15:00,Online,Online,Água,Bebida,1
+347,Champions,2026-05-10 19:15:00,Online,Online,Cocktail,Bebida,3
+347,Champions,2026-05-10 19:15:00,Online,Online,Hot Dog,Comida,2
+348,Liga,2026-05-10 19:24:00,Offline,Stand B,Merchandising,Outros,1
+349,Liga,2026-05-10 19:39:00,Offline,Camarote,Merchandising,Outros,3
+349,Liga,2026-05-10 19:39:00,Offline,Camarote,Cocktail,Bebida,3
+350,Liga,2026-05-10 19:01:00,Offline,Piso 3,Vinho,Bebida,1
+351,Champions,2026-05-10 19:48:00,Offline,Camarote,Cerveja,Bebida,3
+351,Champions,2026-05-10 19:48:00,Offline,Camarote,Nachos,Comida,1
+352,Champions,2026-05-10 20:44:00,Offline,Stand B,Batata Frita,Comida,3
+353,Liga,2026-05-10 20:05:00,Online,Online,Água,Bebida,1
+353,Liga,2026-05-10 20:05:00,Online,Online,Vinho,Bebida,2
+354,Liga,2026-05-10 19:47:00,Offline,Stand A,Merchandising,Outros,1
+354,Liga,2026-05-10 19:47:00,Offline,Stand A,Vinho,Bebida,2
+355,Liga,2026-05-10 20:09:00,Online,Online,Água,Bebida,2
+355,Liga,2026-05-10 20:09:00,Online,Online,Nachos,Comida,2
+356,Champions,2026-05-10 19:38:00,Online,Online,Batata Frita,Comida,3
+356,Champions,2026-05-10 19:38:00,Online,Online,Hambúrguer,Comida,3
+356,Champions,2026-05-10 19:38:00,Online,Online,Cerveja,Bebida,3
+357,Champions,2026-05-10 19:48:00,Online,Online,Merchandising,Outros,2
+357,Champions,2026-05-10 19:48:00,Online,Online,Água,Bebida,1
+357,Champions,2026-05-10 19:48:00,Online,Online,Refrigerante,Bebida,1
+358,Champions,2026-05-10 19:49:00,Offline,Camarote,Cocktail,Bebida,3
+358,Champions,2026-05-10 19:49:00,Offline,Camarote,Cerveja,Bebida,3
+359,Liga,2026-05-10 19:08:00,Offline,Stand A,Batata Frita,Comida,2
+359,Liga,2026-05-10 19:08:00,Offline,Stand A,Hambúrguer,Comida,3
+360,Liga,2026-05-10 19:29:00,Online,Online,Cocktail,Bebida,3
+360,Liga,2026-05-10 19:29:00,Online,Online,Merchandising,Outros,2
+361,Champions,2026-05-10 20:30:00,Offline,Camarote,Cerveja,Bebida,1
+361,Champions,2026-05-10 20:30:00,Offline,Camarote,Pizza,Comida,1
+362,Liga,2026-05-10 19:28:00,Online,Online,Vinho,Bebida,2
+362,Liga,2026-05-10 19:28:00,Online,Online,Batata Frita,Comida,2
+363,Liga,2026-05-10 19:53:00,Online,Online,Cerveja,Bebida,3
+363,Liga,2026-05-10 19:53:00,Online,Online,Pizza,Comida,2
+363,Liga,2026-05-10 19:53:00,Online,Online,Hot Dog,Comida,2
+364,Champions,2026-05-10 19:03:00,Online,Online,Hambúrguer,Comida,2
+364,Champions,2026-05-10 19:03:00,Online,Online,Nachos,Comida,2
+364,Champions,2026-05-10 19:03:00,Online,Online,Cerveja,Bebida,2
+365,Liga,2026-05-10 19:20:00,Online,Online,Hambúrguer,Comida,3
+365,Liga,2026-05-10 19:20:00,Online,Online,Refrigerante,Bebida,2
+365,Liga,2026-05-10 19:20:00,Online,Online,Pizza,Comida,3
+366,Liga,2026-05-10 20:25:00,Offline,Stand B,Água,Bebida,3
+366,Liga,2026-05-10 20:25:00,Offline,Stand B,Cerveja,Bebida,2
+367,Champions,2026-05-10 20:10:00,Online,Online,Merchandising,Outros,1
+368,Liga,2026-05-10 19:20:00,Offline,Piso 0,Merchandising,Outros,2
+368,Liga,2026-05-10 19:20:00,Offline,Piso 0,Batata Frita,Comida,3
+369,Liga,2026-05-10 19:51:00,Online,Online,Vinho,Bebida,3
+370,Champions,2026-05-10 20:40:00,Offline,Stand C,Água,Bebida,2
+371,Liga,2026-05-10 19:47:00,Online,Online,Cocktail,Bebida,1
+372,Liga,2026-05-10 19:21:00,Offline,Piso 3,Merchandising,Outros,2
+373,Liga,2026-05-10 19:18:00,Online,Online,Refrigerante,Bebida,1
+374,Champions,2026-05-10 19:51:00,Online,Online,Cocktail,Bebida,1
+375,Liga,2026-05-10 20:30:00,Offline,Stand C,Cocktail,Bebida,1
+375,Liga,2026-05-10 20:30:00,Offline,Stand C,Refrigerante,Bebida,2
+376,Champions,2026-05-10 20:42:00,Offline,Piso 0,Hambúrguer,Comida,2
+377,Liga,2026-05-10 19:40:00,Online,Online,Pizza,Comida,2
+377,Liga,2026-05-10 19:40:00,Online,Online,Hot Dog,Comida,3
+377,Liga,2026-05-10 19:40:00,Online,Online,Cocktail,Bebida,3
+378,Champions,2026-05-10 19:44:00,Offline,Piso 0,Vinho,Bebida,1
+378,Champions,2026-05-10 19:44:00,Offline,Piso 0,Batata Frita,Comida,3
+379,Liga,2026-05-10 20:25:00,Offline,Camarote,Cocktail,Bebida,2
+379,Liga,2026-05-10 20:25:00,Offline,Camarote,Água,Bebida,3
+380,Liga,2026-05-10 19:57:00,Online,Online,Pizza,Comida,1
+380,Liga,2026-05-10 19:57:00,Online,Online,Hambúrguer,Comida,2
+381,Champions,2026-05-10 20:27:00,Offline,Stand B,Cocktail,Bebida,1
+382,Liga,2026-05-10 20:40:00,Offline,Stand C,Água,Bebida,3
+382,Liga,2026-05-10 20:40:00,Offline,Stand C,Cocktail,Bebida,1
+383,Liga,2026-05-10 19:58:00,Online,Online,Hot Dog,Comida,1
+383,Liga,2026-05-10 19:58:00,Online,Online,Cocktail,Bebida,3
+383,Liga,2026-05-10 19:58:00,Online,Online,Merchandising,Outros,1
+384,Champions,2026-05-10 19:14:00,Offline,Stand A,Nachos,Comida,1
+384,Champions,2026-05-10 19:14:00,Offline,Stand A,Cocktail,Bebida,1
+385,Champions,2026-05-10 20:36:00,Online,Online,Refrigerante,Bebida,1
+386,Liga,2026-05-10 19:05:00,Offline,Piso 0,Vinho,Bebida,2
+387,Champions,2026-05-10 19:54:00,Online,Online,Refrigerante,Bebida,3
+387,Champions,2026-05-10 19:54:00,Online,Online,Hot Dog,Comida,1
+388,Champions,2026-05-10 19:37:00,Offline,Camarote,Hot Dog,Comida,2
+389,Liga,2026-05-10 20:28:00,Online,Online,Cocktail,Bebida,3
+390,Champions,2026-05-10 19:51:00,Online,Online,Água,Bebida,2
+391,Champions,2026-05-10 20:28:00,Online,Online,Vinho,Bebida,1
+391,Champions,2026-05-10 20:28:00,Online,Online,Hambúrguer,Comida,1
+392,Liga,2026-05-10 20:10:00,Offline,Piso 3,Água,Bebida,1
+393,Champions,2026-05-10 19:34:00,Offline,Piso 0,Hot Dog,Comida,3
+393,Champions,2026-05-10 19:34:00,Offline,Piso 0,Nachos,Comida,3
+394,Champions,2026-05-10 19:40:00,Offline,Piso 3,Vinho,Bebida,3
+395,Liga,2026-05-10 20:14:00,Online,Online,Cerveja,Bebida,3
+396,Liga,2026-05-10 20:16:00,Online,Online,Batata Frita,Comida,2
+396,Liga,2026-05-10 20:16:00,Online,Online,Cerveja,Bebida,1
+396,Liga,2026-05-10 20:16:00,Online,Online,Refrigerante,Bebida,1
+397,Liga,2026-05-10 19:44:00,Offline,Piso 0,Hambúrguer,Comida,3
+398,Liga,2026-05-10 20:28:00,Offline,Piso 0,Água,Bebida,1
+399,Champions,2026-05-10 19:31:00,Offline,Stand A,Refrigerante,Bebida,3
+400,Champions,2026-05-10 19:40:00,Online,Online,Hambúrguer,Comida,3
+401,Champions,2026-05-10 19:46:00,Offline,Camarote,Merchandising,Outros,3
+402,Liga,2026-05-10 19:29:00,Online,Online,Hambúrguer,Comida,2
+402,Liga,2026-05-10 19:29:00,Online,Online,Cerveja,Bebida,3
+402,Liga,2026-05-10 19:29:00,Online,Online,Vinho,Bebida,2
+403,Champions,2026-05-10 20:25:00,Online,Online,Batata Frita,Comida,2
+404,Liga,2026-05-10 19:16:00,Offline,Camarote,Hot Dog,Comida,3
+405,Liga,2026-05-10 19:45:00,Online,Online,Refrigerante,Bebida,1
+405,Liga,2026-05-10 19:45:00,Online,Online,Merchandising,Outros,3
+406,Liga,2026-05-10 19:52:00,Offline,Stand B,Água,Bebida,3
+407,Liga,2026-05-10 19:53:00,Offline,Stand A,Água,Bebida,3
+407,Liga,2026-05-10 19:53:00,Offline,Stand A,Batata Frita,Comida,3
+408,Champions,2026-05-10 19:02:00,Offline,Piso 0,Cocktail,Bebida,2
+409,Champions,2026-05-10 19:45:00,Online,Online,Nachos,Comida,3
+409,Champions,2026-05-10 19:45:00,Online,Online,Hot Dog,Comida,3
+410,Champions,2026-05-10 20:20:00,Online,Online,Refrigerante,Bebida,2
+411,Champions,2026-05-10 19:59:00,Online,Online,Água,Bebida,3
+411,Champions,2026-05-10 19:59:00,Online,Online,Pizza,Comida,3
+411,Champions,2026-05-10 19:59:00,Online,Online,Vinho,Bebida,3
+412,Champions,2026-05-10 19:46:00,Online,Online,Hambúrguer,Comida,1
+413,Champions,2026-05-10 19:03:00,Online,Online,Nachos,Comida,2
+413,Champions,2026-05-10 19:03:00,Online,Online,Hambúrguer,Comida,3
+414,Champions,2026-05-10 20:01:00,Online,Online,Hambúrguer,Comida,2
+415,Champions,2026-05-10 19:53:00,Online,Online,Nachos,Comida,1
+415,Champions,2026-05-10 19:53:00,Online,Online,Vinho,Bebida,1
+416,Champions,2026-05-10 19:05:00,Online,Online,Água,Bebida,3
+417,Liga,2026-05-10 20:41:00,Offline,Piso 3,Hot Dog,Comida,1
+418,Champions,2026-05-10 19:11:00,Online,Online,Água,Bebida,3
+418,Champions,2026-05-10 19:11:00,Online,Online,Refrigerante,Bebida,2
+419,Liga,2026-05-10 19:00:00,Offline,Camarote,Cerveja,Bebida,3
+420,Champions,2026-05-10 19:42:00,Online,Online,Cocktail,Bebida,2
+420,Champions,2026-05-10 19:42:00,Online,Online,Água,Bebida,3
+420,Champions,2026-05-10 19:42:00,Online,Online,Batata Frita,Comida,2
+421,Champions,2026-05-10 19:17:00,Offline,Stand A,Refrigerante,Bebida,1
+421,Champions,2026-05-10 19:17:00,Offline,Stand A,Nachos,Comida,2
+422,Champions,2026-05-10 20:17:00,Offline,Piso 3,Vinho,Bebida,1
+423,Liga,2026-05-10 19:15:00,Offline,Stand A,Cocktail,Bebida,3
+423,Liga,2026-05-10 19:15:00,Offline,Stand A,Água,Bebida,2
+424,Liga,2026-05-10 19:07:00,Online,Online,Hambúrguer,Comida,2
+424,Liga,2026-05-10 19:07:00,Online,Online,Nachos,Comida,1
+424,Liga,2026-05-10 19:07:00,Online,Online,Água,Bebida,3
+425,Champions,2026-05-10 20:15:00,Offline,Piso 0,Hambúrguer,Comida,1
+425,Champions,2026-05-10 20:15:00,Offline,Piso 0,Batata Frita,Comida,3
+426,Liga,2026-05-10 19:52:00,Online,Online,Batata Frita,Comida,2
+426,Liga,2026-05-10 19:52:00,Online,Online,Vinho,Bebida,3
+427,Champions,2026-05-10 20:29:00,Offline,Piso 3,Merchandising,Outros,1
+427,Champions,2026-05-10 20:29:00,Offline,Piso 3,Nachos,Comida,1
+428,Liga,2026-05-10 20:00:00,Online,Online,Pizza,Comida,2
+429,Liga,2026-05-10 20:17:00,Offline,Piso 0,Batata Frita,Comida,2
+430,Champions,2026-05-10 19:53:00,Offline,Piso 0,Merchandising,Outros,1
+431,Champions,2026-05-10 19:58:00,Online,Online,Água,Bebida,3
+431,Champions,2026-05-10 19:58:00,Online,Online,Cocktail,Bebida,3
+431,Champions,2026-05-10 19:58:00,Online,Online,Hambúrguer,Comida,3
+432,Liga,2026-05-10 19:48:00,Offline,Camarote,Vinho,Bebida,1
+433,Liga,2026-05-10 20:27:00,Online,Online,Hambúrguer,Comida,1
+434,Liga,2026-05-10 20:32:00,Offline,Piso 0,Nachos,Comida,3
+435,Champions,2026-05-10 20:11:00,Offline,Stand B,Vinho,Bebida,2
+435,Champions,2026-05-10 20:11:00,Offline,Stand B,Cocktail,Bebida,1
+436,Champions,2026-05-10 19:40:00,Online,Online,Nachos,Comida,3
+437,Liga,2026-05-10 19:47:00,Online,Online,Cocktail,Bebida,1
+437,Liga,2026-05-10 19:47:00,Online,Online,Merchandising,Outros,2
+438,Liga,2026-05-10 20:13:00,Online,Online,Nachos,Comida,1
+438,Liga,2026-05-10 20:13:00,Online,Online,Vinho,Bebida,2
+438,Liga,2026-05-10 20:13:00,Online,Online,Refrigerante,Bebida,3
+439,Liga,2026-05-10 19:43:00,Offline,Piso 0,Hambúrguer,Comida,3
+439,Liga,2026-05-10 19:43:00,Offline,Piso 0,Merchandising,Outros,3
+440,Liga,2026-05-10 19:49:00,Online,Online,Hambúrguer,Comida,3
+440,Liga,2026-05-10 19:49:00,Online,Online,Refrigerante,Bebida,2
+441,Champions,2026-05-10 19:29:00,Online,Online,Água,Bebida,3
+441,Champions,2026-05-10 19:29:00,Online,Online,Cocktail,Bebida,2
+442,Champions,2026-05-10 19:53:00,Offline,Camarote,Nachos,Comida,1
+442,Champions,2026-05-10 19:53:00,Offline,Camarote,Refrigerante,Bebida,1
+443,Liga,2026-05-10 19:40:00,Offline,Stand B,Hambúrguer,Comida,3
+444,Champions,2026-05-10 20:23:00,Offline,Stand A,Refrigerante,Bebida,2
+444,Champions,2026-05-10 20:23:00,Offline,Stand A,Cocktail,Bebida,3
+445,Liga,2026-05-10 19:55:00,Offline,Camarote,Batata Frita,Comida,2
+445,Liga,2026-05-10 19:55:00,Offline,Camarote,Cocktail,Bebida,3
+446,Champions,2026-05-10 19:55:00,Online,Online,Cocktail,Bebida,2
+446,Champions,2026-05-10 19:55:00,Online,Online,Hot Dog,Comida,3
+446,Champions,2026-05-10 19:55:00,Online,Online,Vinho,Bebida,3
+447,Champions,2026-05-10 20:12:00,Offline,Stand B,Cocktail,Bebida,2
+448,Champions,2026-05-10 19:38:00,Offline,Piso 3,Vinho,Bebida,3
+449,Champions,2026-05-10 20:09:00,Offline,Stand B,Merchandising,Outros,2
+450,Champions,2026-05-10 19:56:00,Online,Online,Vinho,Bebida,1
+451,Liga,2026-05-10 19:51:00,Online,Online,Vinho,Bebida,1
+451,Liga,2026-05-10 19:51:00,Online,Online,Água,Bebida,1
+451,Liga,2026-05-10 19:51:00,Online,Online,Refrigerante,Bebida,2
+452,Champions,2026-05-10 19:39:00,Online,Online,Cerveja,Bebida,1
+452,Champions,2026-05-10 19:39:00,Online,Online,Pizza,Comida,1
+452,Champions,2026-05-10 19:39:00,Online,Online,Hambúrguer,Comida,2
+453,Champions,2026-05-10 19:45:00,Online,Online,Vinho,Bebida,1
+453,Champions,2026-05-10 19:45:00,Online,Online,Água,Bebida,1
+454,Champions,2026-05-10 19:54:00,Offline,Stand B,Cerveja,Bebida,2
+455,Liga,2026-05-10 19:03:00,Online,Online,Batata Frita,Comida,2
+455,Liga,2026-05-10 19:03:00,Online,Online,Hambúrguer,Comida,3
+456,Champions,2026-05-10 19:05:00,Offline,Stand B,Nachos,Comida,2
+457,Champions,2026-05-10 19:32:00,Offline,Piso 0,Vinho,Bebida,2
+458,Champions,2026-05-10 20:41:00,Online,Online,Hambúrguer,Comida,1
+459,Champions,2026-05-10 19:56:00,Online,Online,Pizza,Comida,1
+460,Liga,2026-05-10 19:02:00,Online,Online,Nachos,Comida,1
+461,Champions,2026-05-10 19:52:00,Online,Online,Nachos,Comida,2
+461,Champions,2026-05-10 19:52:00,Online,Online,Pizza,Comida,2
+462,Liga,2026-05-10 19:53:00,Offline,Piso 0,Pizza,Comida,3
+462,Liga,2026-05-10 19:53:00,Offline,Piso 0,Água,Bebida,3
+463,Liga,2026-05-10 20:33:00,Offline,Stand C,Hambúrguer,Comida,1
+463,Liga,2026-05-10 20:33:00,Offline,Stand C,Nachos,Comida,2
+464,Champions,2026-05-10 20:18:00,Online,Online,Hot Dog,Comida,3
+465,Liga,2026-05-10 19:39:00,Offline,Stand C,Pizza,Comida,1
+465,Liga,2026-05-10 19:39:00,Offline,Stand C,Merchandising,Outros,2
+466,Champions,2026-05-10 19:55:00,Online,Online,Pizza,Comida,1
+466,Champions,2026-05-10 19:55:00,Online,Online,Refrigerante,Bebida,1
+466,Champions,2026-05-10 19:55:00,Online,Online,Cocktail,Bebida,3
+467,Liga,2026-05-10 19:33:00,Offline,Camarote,Batata Frita,Comida,3
+467,Liga,2026-05-10 19:33:00,Offline,Camarote,Merchandising,Outros,2
+468,Liga,2026-05-10 19:16:00,Offline,Camarote,Batata Frita,Comida,3
+469,Champions,2026-05-10 19:45:00,Online,Online,Cerveja,Bebida,2
+470,Liga,2026-05-10 19:55:00,Offline,Stand B,Nachos,Comida,2
+471,Liga,2026-05-10 19:55:00,Online,Online,Refrigerante,Bebida,1
+472,Liga,2026-05-10 19:57:00,Offline,Stand A,Hot Dog,Comida,2
+473,Champions,2026-05-10 20:35:00,Offline,Piso 3,Nachos,Comida,2
+474,Liga,2026-05-10 20:29:00,Online,Online,Merchandising,Outros,2
+475,Liga,2026-05-10 20:32:00,Offline,Stand A,Cocktail,Bebida,2
+475,Liga,2026-05-10 20:32:00,Offline,Stand A,Pizza,Comida,3
+476,Champions,2026-05-10 19:34:00,Online,Online,Água,Bebida,1
+476,Champions,2026-05-10 19:34:00,Online,Online,Nachos,Comida,3
+477,Champions,2026-05-10 19:44:00,Offline,Stand C,Merchandising,Outros,2
+477,Champions,2026-05-10 19:44:00,Offline,Stand C,Pizza,Comida,2
+478,Champions,2026-05-10 19:29:00,Offline,Piso 0,Vinho,Bebida,2
+479,Champions,2026-05-10 19:54:00,Online,Online,Nachos,Comida,2
+479,Champions,2026-05-10 19:54:00,Online,Online,Cocktail,Bebida,2
+479,Champions,2026-05-10 19:54:00,Online,Online,Cerveja,Bebida,3
+480,Champions,2026-05-10 20:06:00,Online,Online,Merchandising,Outros,1
+480,Champions,2026-05-10 20:06:00,Online,Online,Água,Bebida,3
+481,Champions,2026-05-10 19:02:00,Offline,Stand B,Cocktail,Bebida,3
+482,Liga,2026-05-10 20:35:00,Offline,Stand C,Água,Bebida,3
+482,Liga,2026-05-10 20:35:00,Offline,Stand C,Nachos,Comida,3
+483,Liga,2026-05-10 19:27:00,Online,Online,Vinho,Bebida,1
+483,Liga,2026-05-10 19:27:00,Online,Online,Refrigerante,Bebida,3
+484,Liga,2026-05-10 19:52:00,Online,Online,Vinho,Bebida,3
+485,Liga,2026-05-10 20:35:00,Online,Online,Merchandising,Outros,3
+485,Liga,2026-05-10 20:35:00,Online,Online,Hot Dog,Comida,3
+486,Liga,2026-05-10 19:49:00,Online,Online,Água,Bebida,1
+487,Champions,2026-05-10 19:19:00,Online,Online,Cerveja,Bebida,2
+487,Champions,2026-05-10 19:19:00,Online,Online,Vinho,Bebida,1
+487,Champions,2026-05-10 19:19:00,Online,Online,Cocktail,Bebida,2
+488,Champions,2026-05-10 19:31:00,Offline,Camarote,Merchandising,Outros,2
+489,Liga,2026-05-10 20:36:00,Online,Online,Vinho,Bebida,1
+489,Liga,2026-05-10 20:36:00,Online,Online,Hot Dog,Comida,3
+489,Liga,2026-05-10 20:36:00,Online,Online,Nachos,Comida,2
+490,Champions,2026-05-10 20:07:00,Offline,Stand B,Vinho,Bebida,1
+490,Champions,2026-05-10 20:07:00,Offline,Stand B,Merchandising,Outros,3
+491,Champions,2026-05-10 20:42:00,Online,Online,Hambúrguer,Comida,3
+491,Champions,2026-05-10 20:42:00,Online,Online,Pizza,Comida,1
+492,Liga,2026-05-10 19:54:00,Offline,Stand C,Hot Dog,Comida,3
+493,Liga,2026-05-10 19:57:00,Offline,Stand A,Pizza,Comida,1
+493,Liga,2026-05-10 19:57:00,Offline,Stand A,Nachos,Comida,1
+494,Champions,2026-05-10 20:37:00,Online,Online,Batata Frita,Comida,2
+494,Champions,2026-05-10 20:37:00,Online,Online,Hambúrguer,Comida,1
+494,Champions,2026-05-10 20:37:00,Online,Online,Refrigerante,Bebida,1
+495,Liga,2026-05-10 19:55:00,Online,Online,Água,Bebida,3
+495,Liga,2026-05-10 19:55:00,Online,Online,Hambúrguer,Comida,2
+496,Champions,2026-05-10 20:19:00,Online,Online,Batata Frita,Comida,3
+496,Champions,2026-05-10 20:19:00,Online,Online,Cocktail,Bebida,3
+496,Champions,2026-05-10 20:19:00,Online,Online,Refrigerante,Bebida,2
+497,Champions,2026-05-10 19:57:00,Online,Online,Merchandising,Outros,1
+497,Champions,2026-05-10 19:57:00,Online,Online,Refrigerante,Bebida,3
+498,Liga,2026-05-10 19:47:00,Online,Online,Água,Bebida,1
+499,Champions,2026-05-10 19:57:00,Online,Online,Vinho,Bebida,1
+500,Champions,2026-05-10 19:52:00,Offline,Stand B,Batata Frita,Comida,3
+500,Champions,2026-05-10 19:52:00,Offline,Stand B,Pizza,Comida,1
+501,Champions,2026-05-10 19:18:00,Offline,Piso 3,Nachos,Comida,2
+502,Champions,2026-05-10 19:55:00,Offline,Stand C,Refrigerante,Bebida,3
+502,Champions,2026-05-10 19:55:00,Offline,Stand C,Nachos,Comida,3
+503,Champions,2026-05-10 19:01:00,Online,Online,Cocktail,Bebida,1
+504,Liga,2026-05-10 19:56:00,Offline,Stand A,Hot Dog,Comida,2
+504,Liga,2026-05-10 19:56:00,Offline,Stand A,Merchandising,Outros,1
+505,Liga,2026-05-10 19:54:00,Offline,Stand C,Merchandising,Outros,1
+506,Liga,2026-05-10 19:19:00,Offline,Stand B,Hambúrguer,Comida,1
+506,Liga,2026-05-10 19:19:00,Offline,Stand B,Vinho,Bebida,2
+507,Liga,2026-05-10 19:57:00,Offline,Piso 3,Hambúrguer,Comida,3
+508,Liga,2026-05-10 19:24:00,Online,Online,Água,Bebida,3
+508,Liga,2026-05-10 19:24:00,Online,Online,Vinho,Bebida,2
+508,Liga,2026-05-10 19:24:00,Online,Online,Refrigerante,Bebida,2
+509,Liga,2026-05-10 19:14:00,Offline,Stand A,Pizza,Comida,1
+509,Liga,2026-05-10 19:14:00,Offline,Stand A,Cerveja,Bebida,1
+510,Champions,2026-05-10 20:21:00,Offline,Stand A,Água,Bebida,1
+510,Champions,2026-05-10 20:21:00,Offline,Stand A,Vinho,Bebida,3
+511,Liga,2026-05-10 19:53:00,Offline,Camarote,Cerveja,Bebida,3
+511,Liga,2026-05-10 19:53:00,Offline,Camarote,Água,Bebida,1
+512,Liga,2026-05-10 19:01:00,Online,Online,Cocktail,Bebida,3
+512,Liga,2026-05-10 19:01:00,Online,Online,Merchandising,Outros,3
+513,Liga,2026-05-10 19:49:00,Offline,Stand A,Hot Dog,Comida,2
+513,Liga,2026-05-10 19:49:00,Offline,Stand A,Refrigerante,Bebida,2
+514,Champions,2026-05-10 19:37:00,Offline,Stand B,Refrigerante,Bebida,2
+515,Liga,2026-05-10 20:18:00,Online,Online,Água,Bebida,1
+515,Liga,2026-05-10 20:18:00,Online,Online,Nachos,Comida,1
+515,Liga,2026-05-10 20:18:00,Online,Online,Cerveja,Bebida,2
+516,Champions,2026-05-10 19:16:00,Offline,Piso 3,Água,Bebida,1
+516,Champions,2026-05-10 19:16:00,Offline,Piso 3,Merchandising,Outros,2
+517,Liga,2026-05-10 19:51:00,Online,Online,Cocktail,Bebida,2
+517,Liga,2026-05-10 19:51:00,Online,Online,Vinho,Bebida,3
+517,Liga,2026-05-10 19:51:00,Online,Online,Refrigerante,Bebida,3
+518,Liga,2026-05-10 19:00:00,Offline,Piso 3,Batata Frita,Comida,2
+519,Liga,2026-05-10 19:53:00,Offline,Piso 0,Hot Dog,Comida,2
+520,Champions,2026-05-10 20:17:00,Online,Online,Refrigerante,Bebida,1
+520,Champions,2026-05-10 20:17:00,Online,Online,Nachos,Comida,2
+520,Champions,2026-05-10 20:17:00,Online,Online,Água,Bebida,3
+521,Champions,2026-05-10 20:05:00,Offline,Piso 0,Cocktail,Bebida,3
+522,Liga,2026-05-10 20:36:00,Offline,Camarote,Refrigerante,Bebida,1
+522,Liga,2026-05-10 20:36:00,Offline,Camarote,Merchandising,Outros,3
+523,Champions,2026-05-10 20:00:00,Offline,Stand A,Cocktail,Bebida,3
+523,Champions,2026-05-10 20:00:00,Offline,Stand A,Pizza,Comida,1
+524,Liga,2026-05-10 19:08:00,Offline,Camarote,Cerveja,Bebida,1
+524,Liga,2026-05-10 19:08:00,Offline,Camarote,Hambúrguer,Comida,3
+525,Champions,2026-05-10 19:14:00,Online,Online,Merchandising,Outros,1
+525,Champions,2026-05-10 19:14:00,Online,Online,Vinho,Bebida,3
+526,Liga,2026-05-10 19:09:00,Online,Online,Nachos,Comida,1
+526,Liga,2026-05-10 19:09:00,Online,Online,Cerveja,Bebida,3
+527,Liga,2026-05-10 19:38:00,Online,Online,Hot Dog,Comida,1
+527,Liga,2026-05-10 19:38:00,Online,Online,Cerveja,Bebida,1
+528,Champions,2026-05-10 20:06:00,Offline,Camarote,Merchandising,Outros,3
+529,Liga,2026-05-10 19:55:00,Offline,Stand B,Água,Bebida,2
+529,Liga,2026-05-10 19:55:00,Offline,Stand B,Batata Frita,Comida,1
+530,Liga,2026-05-10 20:09:00,Offline,Piso 0,Merchandising,Outros,3
+531,Liga,2026-05-10 20:40:00,Offline,Stand C,Água,Bebida,1
+531,Liga,2026-05-10 20:40:00,Offline,Stand C,Vinho,Bebida,2
+532,Liga,2026-05-10 20:05:00,Offline,Stand B,Hambúrguer,Comida,3
+532,Liga,2026-05-10 20:05:00,Offline,Stand B,Merchandising,Outros,2
+533,Champions,2026-05-10 20:06:00,Offline,Stand A,Água,Bebida,3
+533,Champions,2026-05-10 20:06:00,Offline,Stand A,Nachos,Comida,1
+534,Liga,2026-05-10 19:46:00,Online,Online,Batata Frita,Comida,3
+534,Liga,2026-05-10 19:46:00,Online,Online,Água,Bebida,1
+534,Liga,2026-05-10 19:46:00,Online,Online,Merchandising,Outros,1
+535,Liga,2026-05-10 20:07:00,Offline,Stand B,Batata Frita,Comida,2
+536,Liga,2026-05-10 19:50:00,Offline,Piso 0,Refrigerante,Bebida,2
+537,Champions,2026-05-10 20:06:00,Offline,Stand C,Refrigerante,Bebida,3
+538,Liga,2026-05-10 19:49:00,Online,Online,Água,Bebida,2
+538,Liga,2026-05-10 19:49:00,Online,Online,Pizza,Comida,3
+539,Champions,2026-05-10 19:40:00,Offline,Camarote,Nachos,Comida,1
+539,Champions,2026-05-10 19:40:00,Offline,Camarote,Refrigerante,Bebida,3
+540,Champions,2026-05-10 19:50:00,Offline,Piso 3,Hot Dog,Comida,1
+540,Champions,2026-05-10 19:50:00,Offline,Piso 3,Cocktail,Bebida,2
+541,Champions,2026-05-10 20:40:00,Online,Online,Nachos,Comida,2
+542,Liga,2026-05-10 19:45:00,Offline,Piso 0,Água,Bebida,2
+542,Liga,2026-05-10 19:45:00,Offline,Piso 0,Merchandising,Outros,3
+543,Liga,2026-05-10 19:40:00,Online,Online,Água,Bebida,2
+543,Liga,2026-05-10 19:40:00,Online,Online,Cerveja,Bebida,1
+543,Liga,2026-05-10 19:40:00,Online,Online,Vinho,Bebida,3
+544,Champions,2026-05-10 19:01:00,Online,Online,Cocktail,Bebida,1
+544,Champions,2026-05-10 19:01:00,Online,Online,Merchandising,Outros,2
+544,Champions,2026-05-10 19:01:00,Online,Online,Água,Bebida,3
+545,Champions,2026-05-10 19:58:00,Offline,Piso 0,Nachos,Comida,1
+545,Champions,2026-05-10 19:58:00,Offline,Piso 0,Hot Dog,Comida,1
+546,Champions,2026-05-10 19:16:00,Online,Online,Hambúrguer,Comida,2
+546,Champions,2026-05-10 19:16:00,Online,Online,Merchandising,Outros,1
+547,Champions,2026-05-10 19:56:00,Online,Online,Refrigerante,Bebida,1
+548,Champions,2026-05-10 19:52:00,Offline,Piso 3,Batata Frita,Comida,2
+548,Champions,2026-05-10 19:52:00,Offline,Piso 3,Pizza,Comida,2
+549,Liga,2026-05-10 20:40:00,Online,Online,Vinho,Bebida,2
+549,Liga,2026-05-10 20:40:00,Online,Online,Nachos,Comida,2
+549,Liga,2026-05-10 20:40:00,Online,Online,Cocktail,Bebida,1
+550,Liga,2026-05-10 19:55:00,Online,Online,Hot Dog,Comida,2
+551,Liga,2026-05-10 19:50:00,Online,Online,Pizza,Comida,2
+552,Champions,2026-05-10 19:35:00,Offline,Piso 0,Cerveja,Bebida,2
+553,Liga,2026-05-10 20:18:00,Offline,Camarote,Cocktail,Bebida,3
+554,Liga,2026-05-10 19:34:00,Offline,Piso 3,Nachos,Comida,1
+555,Champions,2026-05-10 19:45:00,Offline,Piso 0,Refrigerante,Bebida,2
+555,Champions,2026-05-10 19:45:00,Offline,Piso 0,Batata Frita,Comida,3
+556,Liga,2026-05-10 19:45:00,Offline,Stand C,Merchandising,Outros,2
+556,Liga,2026-05-10 19:45:00,Offline,Stand C,Pizza,Comida,3
+557,Liga,2026-05-10 19:46:00,Online,Online,Pizza,Comida,3
+557,Liga,2026-05-10 19:46:00,Online,Online,Merchandising,Outros,3
+558,Liga,2026-05-10 19:09:00,Online,Online,Pizza,Comida,3
+558,Liga,2026-05-10 19:09:00,Online,Online,Água,Bebida,3
+559,Liga,2026-05-10 19:46:00,Offline,Piso 3,Refrigerante,Bebida,3
+559,Liga,2026-05-10 19:46:00,Offline,Piso 3,Água,Bebida,2
+560,Champions,2026-05-10 20:30:00,Offline,Piso 0,Água,Bebida,3
+560,Champions,2026-05-10 20:30:00,Offline,Piso 0,Cerveja,Bebida,3
+561,Champions,2026-05-10 19:30:00,Offline,Stand C,Vinho,Bebida,1
+562,Champions,2026-05-10 19:19:00,Online,Online,Merchandising,Outros,2
+562,Champions,2026-05-10 19:19:00,Online,Online,Cerveja,Bebida,3
+562,Champions,2026-05-10 19:19:00,Online,Online,Refrigerante,Bebida,3
+563,Champions,2026-05-10 19:47:00,Offline,Stand B,Batata Frita,Comida,3
+563,Champions,2026-05-10 19:47:00,Offline,Stand B,Pizza,Comida,1
+564,Champions,2026-05-10 19:46:00,Online,Online,Merchandising,Outros,2
+564,Champions,2026-05-10 19:46:00,Online,Online,Hambúrguer,Comida,2
+565,Liga,2026-05-10 19:07:00,Online,Online,Pizza,Comida,3
+565,Liga,2026-05-10 19:07:00,Online,Online,Refrigerante,Bebida,3
+565,Liga,2026-05-10 19:07:00,Online,Online,Vinho,Bebida,2
+566,Liga,2026-05-10 19:38:00,Offline,Piso 3,Merchandising,Outros,3
+567,Champions,2026-05-10 20:21:00,Online,Online,Vinho,Bebida,1
+568,Liga,2026-05-10 19:46:00,Offline,Stand C,Cocktail,Bebida,1
+569,Champions,2026-05-10 19:55:00,Offline,Stand B,Merchandising,Outros,3
+569,Champions,2026-05-10 19:55:00,Offline,Stand B,Pizza,Comida,3
+570,Liga,2026-05-10 19:47:00,Offline,Camarote,Hambúrguer,Comida,2
+571,Champions,2026-05-10 19:19:00,Online,Online,Água,Bebida,3
+572,Liga,2026-05-10 20:21:00,Offline,Stand A,Refrigerante,Bebida,2
+572,Liga,2026-05-10 20:21:00,Offline,Stand A,Cocktail,Bebida,3
+573,Champions,2026-05-10 20:05:00,Offline,Camarote,Nachos,Comida,3
+574,Liga,2026-05-10 19:05:00,Offline,Stand B,Nachos,Comida,1
+574,Liga,2026-05-10 19:05:00,Offline,Stand B,Batata Frita,Comida,2
+575,Liga,2026-05-10 19:08:00,Online,Online,Merchandising,Outros,2
+575,Liga,2026-05-10 19:08:00,Online,Online,Pizza,Comida,3
+575,Liga,2026-05-10 19:08:00,Online,Online,Cocktail,Bebida,1
+576,Champions,2026-05-10 19:42:00,Offline,Camarote,Refrigerante,Bebida,3
+577,Champions,2026-05-10 20:25:00,Online,Online,Hambúrguer,Comida,2
+577,Champions,2026-05-10 20:25:00,Online,Online,Cocktail,Bebida,1
+577,Champions,2026-05-10 20:25:00,Online,Online,Refrigerante,Bebida,1
+578,Champions,2026-05-10 20:31:00,Offline,Camarote,Água,Bebida,3
+579,Liga,2026-05-10 19:54:00,Offline,Piso 3,Batata Frita,Comida,3
+580,Champions,2026-05-10 20:01:00,Online,Online,Hambúrguer,Comida,2
+580,Champions,2026-05-10 20:01:00,Online,Online,Hot Dog,Comida,2
+581,Champions,2026-05-10 19:37:00,Online,Online,Merchandising,Outros,2
+581,Champions,2026-05-10 19:37:00,Online,Online,Pizza,Comida,2
+581,Champions,2026-05-10 19:37:00,Online,Online,Cocktail,Bebida,2
+582,Champions,2026-05-10 20:03:00,Online,Online,Cerveja,Bebida,2
+583,Champions,2026-05-10 19:51:00,Online,Online,Água,Bebida,2
+583,Champions,2026-05-10 19:51:00,Online,Online,Hambúrguer,Comida,2
+583,Champions,2026-05-10 19:51:00,Online,Online,Refrigerante,Bebida,1
+584,Liga,2026-05-10 20:40:00,Online,Online,Batata Frita,Comida,2
+584,Liga,2026-05-10 20:40:00,Online,Online,Vinho,Bebida,2
+584,Liga,2026-05-10 20:40:00,Online,Online,Cerveja,Bebida,1
+585,Liga,2026-05-10 19:28:00,Offline,Stand B,Batata Frita,Comida,3
+585,Liga,2026-05-10 19:28:00,Offline,Stand B,Cocktail,Bebida,3
+586,Liga,2026-05-10 19:46:00,Online,Online,Pizza,Comida,1
+586,Liga,2026-05-10 19:46:00,Online,Online,Vinho,Bebida,3
+586,Liga,2026-05-10 19:46:00,Online,Online,Hambúrguer,Comida,3
+587,Champions,2026-05-10 19:43:00,Online,Online,Vinho,Bebida,1
+588,Liga,2026-05-10 20:31:00,Offline,Stand C,Hot Dog,Comida,2
+588,Liga,2026-05-10 20:31:00,Offline,Stand C,Batata Frita,Comida,2
+589,Liga,2026-05-10 19:46:00,Offline,Piso 0,Merchandising,Outros,3
+589,Liga,2026-05-10 19:46:00,Offline,Piso 0,Cocktail,Bebida,1
+590,Champions,2026-05-10 19:55:00,Online,Online,Água,Bebida,1
+590,Champions,2026-05-10 19:55:00,Online,Online,Cocktail,Bebida,2
+591,Liga,2026-05-10 19:37:00,Online,Online,Pizza,Comida,1
+591,Liga,2026-05-10 19:37:00,Online,Online,Refrigerante,Bebida,1
+591,Liga,2026-05-10 19:37:00,Online,Online,Merchandising,Outros,3
+592,Liga,2026-05-10 20:23:00,Online,Online,Hambúrguer,Comida,2
+593,Champions,2026-05-10 19:43:00,Offline,Camarote,Refrigerante,Bebida,3
+593,Champions,2026-05-10 19:43:00,Offline,Camarote,Merchandising,Outros,2
+594,Champions,2026-05-10 19:16:00,Offline,Stand A,Água,Bebida,3
+594,Champions,2026-05-10 19:16:00,Offline,Stand A,Cocktail,Bebida,3
+595,Liga,2026-05-10 19:05:00,Offline,Piso 3,Hot Dog,Comida,1
+595,Liga,2026-05-10 19:05:00,Offline,Piso 3,Batata Frita,Comida,1
+596,Liga,2026-05-10 19:54:00,Online,Online,Batata Frita,Comida,3
+596,Liga,2026-05-10 19:54:00,Online,Online,Hot Dog,Comida,3
+597,Liga,2026-05-10 19:59:00,Offline,Piso 0,Pizza,Comida,2
+598,Liga,2026-05-10 20:05:00,Online,Online,Hot Dog,Comida,1
+598,Liga,2026-05-10 20:05:00,Online,Online,Hambúrguer,Comida,1
+598,Liga,2026-05-10 20:05:00,Online,Online,Vinho,Bebida,1
+599,Liga,2026-05-10 20:14:00,Offline,Piso 0,Nachos,Comida,2
+599,Liga,2026-05-10 20:14:00,Offline,Piso 0,Pizza,Comida,2
+600,Champions,2026-05-10 20:01:00,Online,Online,Nachos,Comida,1
+601,Champions,2026-05-10 20:13:00,Online,Online,Merchandising,Outros,1
+602,Liga,2026-05-10 19:43:00,Offline,Stand A,Hambúrguer,Comida,2
+603,Liga,2026-05-10 19:54:00,Online,Online,Vinho,Bebida,1
+604,Liga,2026-05-10 19:11:00,Online,Online,Cocktail,Bebida,1
+605,Liga,2026-05-10 19:47:00,Online,Online,Cerveja,Bebida,3
+605,Liga,2026-05-10 19:47:00,Online,Online,Cocktail,Bebida,2
+605,Liga,2026-05-10 19:47:00,Online,Online,Nachos,Comida,3
+606,Champions,2026-05-10 20:07:00,Online,Online,Nachos,Comida,2
+606,Champions,2026-05-10 20:07:00,Online,Online,Hambúrguer,Comida,2
+606,Champions,2026-05-10 20:07:00,Online,Online,Cerveja,Bebida,2
+607,Champions,2026-05-10 19:14:00,Offline,Stand C,Batata Frita,Comida,3
+607,Champions,2026-05-10 19:14:00,Offline,Stand C,Pizza,Comida,1
+608,Champions,2026-05-10 19:27:00,Online,Online,Cerveja,Bebida,3
+609,Champions,2026-05-10 20:42:00,Online,Online,Pizza,Comida,3
+610,Champions,2026-05-10 20:01:00,Online,Online,Água,Bebida,3
+610,Champions,2026-05-10 20:01:00,Online,Online,Cocktail,Bebida,2
+610,Champions,2026-05-10 20:01:00,Online,Online,Cerveja,Bebida,1
+611,Liga,2026-05-10 19:51:00,Online,Online,Pizza,Comida,2
+612,Champions,2026-05-10 19:54:00,Offline,Stand A,Cocktail,Bebida,2
+612,Champions,2026-05-10 19:54:00,Offline,Stand A,Nachos,Comida,2
+613,Champions,2026-05-10 19:15:00,Online,Online,Água,Bebida,1
+613,Champions,2026-05-10 19:15:00,Online,Online,Hambúrguer,Comida,2
+613,Champions,2026-05-10 19:15:00,Online,Online,Pizza,Comida,3
+614,Liga,2026-05-10 20:16:00,Online,Online,Nachos,Comida,3
+615,Champions,2026-05-10 20:42:00,Offline,Piso 0,Pizza,Comida,3
+616,Champions,2026-05-10 19:08:00,Online,Online,Hot Dog,Comida,3
+617,Liga,2026-05-10 20:03:00,Offline,Stand C,Merchandising,Outros,2
+617,Liga,2026-05-10 20:03:00,Offline,Stand C,Batata Frita,Comida,2
+618,Champions,2026-05-10 20:31:00,Online,Online,Hot Dog,Comida,2
+619,Champions,2026-05-10 20:08:00,Online,Online,Merchandising,Outros,1
+620,Liga,2026-05-10 19:49:00,Online,Online,Vinho,Bebida,1
+620,Liga,2026-05-10 19:49:00,Online,Online,Cerveja,Bebida,1
+621,Champions,2026-05-10 19:29:00,Offline,Stand B,Cerveja,Bebida,1
+621,Champions,2026-05-10 19:29:00,Offline,Stand B,Hambúrguer,Comida,1
+622,Liga,2026-05-10 19:10:00,Online,Online,Hot Dog,Comida,2
+623,Liga,2026-05-10 19:53:00,Offline,Piso 3,Água,Bebida,3
+624,Liga,2026-05-10 19:05:00,Offline,Piso 0,Vinho,Bebida,1
+625,Champions,2026-05-10 19:36:00,Offline,Camarote,Batata Frita,Comida,1
+626,Liga,2026-05-10 19:51:00,Online,Online,Hambúrguer,Comida,2
+627,Champions,2026-05-10 20:16:00,Online,Online,Cocktail,Bebida,2
+627,Champions,2026-05-10 20:16:00,Online,Online,Nachos,Comida,3
+628,Champions,2026-05-10 19:14:00,Offline,Stand C,Cerveja,Bebida,3
+628,Champions,2026-05-10 19:14:00,Offline,Stand C,Refrigerante,Bebida,1
+629,Liga,2026-05-10 19:43:00,Online,Online,Nachos,Comida,2
+629,Liga,2026-05-10 19:43:00,Online,Online,Água,Bebida,2
+630,Champions,2026-05-10 20:08:00,Offline,Stand C,Vinho,Bebida,2
+630,Champions,2026-05-10 20:08:00,Offline,Stand C,Batata Frita,Comida,2
+631,Champions,2026-05-10 19:56:00,Online,Online,Refrigerante,Bebida,3
+631,Champions,2026-05-10 19:56:00,Online,Online,Cocktail,Bebida,1
+632,Champions,2026-05-10 19:58:00,Online,Online,Refrigerante,Bebida,1
+632,Champions,2026-05-10 19:58:00,Online,Online,Cocktail,Bebida,3
+632,Champions,2026-05-10 19:58:00,Online,Online,Merchandising,Outros,1
+633,Liga,2026-05-10 19:31:00,Offline,Stand C,Cocktail,Bebida,3
+633,Liga,2026-05-10 19:31:00,Offline,Stand C,Hot Dog,Comida,1
+634,Liga,2026-05-10 19:50:00,Online,Online,Hot Dog,Comida,2
+634,Liga,2026-05-10 19:50:00,Online,Online,Merchandising,Outros,1
+635,Champions,2026-05-10 19:51:00,Offline,Stand A,Batata Frita,Comida,3
+635,Champions,2026-05-10 19:51:00,Offline,Stand A,Cerveja,Bebida,3
+636,Liga,2026-05-10 20:35:00,Online,Online,Hambúrguer,Comida,3
+637,Liga,2026-05-10 19:35:00,Offline,Stand A,Cocktail,Bebida,1
+637,Liga,2026-05-10 19:35:00,Offline,Stand A,Refrigerante,Bebida,1
+638,Champions,2026-05-10 19:56:00,Online,Online,Merchandising,Outros,2
+639,Liga,2026-05-10 19:51:00,Offline,Stand A,Cerveja,Bebida,2
+640,Liga,2026-05-10 20:25:00,Online,Online,Cerveja,Bebida,2
+640,Liga,2026-05-10 20:25:00,Online,Online,Batata Frita,Comida,3
+640,Liga,2026-05-10 20:25:00,Online,Online,Refrigerante,Bebida,2
+641,Champions,2026-05-10 19:55:00,Online,Online,Vinho,Bebida,2
+642,Liga,2026-05-10 19:45:00,Offline,Piso 3,Hot Dog,Comida,2
+642,Liga,2026-05-10 19:45:00,Offline,Piso 3,Refrigerante,Bebida,2
+643,Liga,2026-05-10 19:46:00,Offline,Stand A,Refrigerante,Bebida,3
+644,Liga,2026-05-10 20:30:00,Online,Online,Refrigerante,Bebida,2
+644,Liga,2026-05-10 20:30:00,Online,Online,Hambúrguer,Comida,2
+644,Liga,2026-05-10 20:30:00,Online,Online,Cerveja,Bebida,3
+645,Champions,2026-05-10 20:27:00,Online,Online,Pizza,Comida,2
+646,Liga,2026-05-10 19:26:00,Online,Online,Refrigerante,Bebida,2
+647,Liga,2026-05-10 20:40:00,Online,Online,Água,Bebida,2
+647,Liga,2026-05-10 20:40:00,Online,Online,Batata Frita,Comida,2
+647,Liga,2026-05-10 20:40:00,Online,Online,Merchandising,Outros,3
+648,Champions,2026-05-10 19:47:00,Online,Online,Cocktail,Bebida,2
+649,Liga,2026-05-10 20:05:00,Offline,Stand C,Hambúrguer,Comida,1
+650,Champions,2026-05-10 19:41:00,Offline,Stand A,Cocktail,Bebida,2
+650,Champions,2026-05-10 19:41:00,Offline,Stand A,Cerveja,Bebida,2
+651,Champions,2026-05-10 19:09:00,Offline,Stand A,Água,Bebida,3
+652,Liga,2026-05-10 19:50:00,Online,Online,Hot Dog,Comida,1
+652,Liga,2026-05-10 19:50:00,Online,Online,Batata Frita,Comida,3
+652,Liga,2026-05-10 19:50:00,Online,Online,Vinho,Bebida,2
+653,Liga,2026-05-10 20:07:00,Online,Online,Refrigerante,Bebida,2
+654,Liga,2026-05-10 19:25:00,Offline,Stand A,Água,Bebida,2
+655,Champions,2026-05-10 20:24:00,Online,Online,Cerveja,Bebida,1
+655,Champions,2026-05-10 20:24:00,Online,Online,Vinho,Bebida,3
+656,Liga,2026-05-10 19:24:00,Online,Online,Hambúrguer,Comida,1
+656,Liga,2026-05-10 19:24:00,Online,Online,Pizza,Comida,1
+656,Liga,2026-05-10 19:24:00,Online,Online,Água,Bebida,2
+657,Liga,2026-05-10 20:41:00,Offline,Stand B,Hambúrguer,Comida,3
+658,Liga,2026-05-10 20:21:00,Offline,Stand C,Merchandising,Outros,2
+658,Liga,2026-05-10 20:21:00,Offline,Stand C,Água,Bebida,1
+659,Champions,2026-05-10 20:07:00,Offline,Camarote,Hambúrguer,Comida,2
+659,Champions,2026-05-10 20:07:00,Offline,Camarote,Vinho,Bebida,2
+660,Champions,2026-05-10 20:20:00,Online,Online,Vinho,Bebida,1
+660,Champions,2026-05-10 20:20:00,Online,Online,Pizza,Comida,1
+660,Champions,2026-05-10 20:20:00,Online,Online,Cocktail,Bebida,2
+661,Champions,2026-05-10 19:51:00,Online,Online,Refrigerante,Bebida,2
+662,Champions,2026-05-10 19:55:00,Online,Online,Merchandising,Outros,3
+663,Champions,2026-05-10 20:15:00,Offline,Stand A,Refrigerante,Bebida,3
+664,Champions,2026-05-10 20:22:00,Online,Online,Batata Frita,Comida,2
+664,Champions,2026-05-10 20:22:00,Online,Online,Refrigerante,Bebida,2
+664,Champions,2026-05-10 20:22:00,Online,Online,Vinho,Bebida,2
+665,Champions,2026-05-10 19:58:00,Online,Online,Nachos,Comida,2
+665,Champions,2026-05-10 19:58:00,Online,Online,Cocktail,Bebida,3
+666,Liga,2026-05-10 19:58:00,Offline,Stand B,Nachos,Comida,1
+667,Liga,2026-05-10 19:58:00,Offline,Stand B,Merchandising,Outros,1
+668,Champions,2026-05-10 20:44:00,Offline,Stand B,Refrigerante,Bebida,2
+669,Champions,2026-05-10 20:21:00,Online,Online,Cerveja,Bebida,1
+669,Champions,2026-05-10 20:21:00,Online,Online,Refrigerante,Bebida,2
+670,Champions,2026-05-10 20:03:00,Online,Online,Refrigerante,Bebida,2
+670,Champions,2026-05-10 20:03:00,Online,Online,Merchandising,Outros,3
+671,Champions,2026-05-10 19:22:00,Offline,Stand A,Hambúrguer,Comida,3
+671,Champions,2026-05-10 19:22:00,Offline,Stand A,Cocktail,Bebida,1
+672,Champions,2026-05-10 19:23:00,Offline,Stand B,Batata Frita,Comida,2
+673,Champions,2026-05-10 20:15:00,Online,Online,Hot Dog,Comida,1
+673,Champions,2026-05-10 20:15:00,Online,Online,Pizza,Comida,3
+673,Champions,2026-05-10 20:15:00,Online,Online,Água,Bebida,2
+674,Liga,2026-05-10 19:58:00,Online,Online,Água,Bebida,1
+674,Liga,2026-05-10 19:58:00,Online,Online,Cocktail,Bebida,3
+674,Liga,2026-05-10 19:58:00,Online,Online,Batata Frita,Comida,1
+675,Liga,2026-05-10 19:45:00,Online,Online,Hambúrguer,Comida,3
+676,Liga,2026-05-10 20:09:00,Online,Online,Hambúrguer,Comida,1
+676,Liga,2026-05-10 20:09:00,Online,Online,Nachos,Comida,2
+677,Champions,2026-05-10 19:57:00,Online,Online,Hambúrguer,Comida,3
+677,Champions,2026-05-10 19:57:00,Online,Online,Nachos,Comida,2
+678,Champions,2026-05-10 20:36:00,Online,Online,Vinho,Bebida,3
+678,Champions,2026-05-10 20:36:00,Online,Online,Cocktail,Bebida,2
+679,Liga,2026-05-10 20:38:00,Offline,Stand B,Hambúrguer,Comida,1
+679,Liga,2026-05-10 20:38:00,Offline,Stand B,Pizza,Comida,2
+680,Liga,2026-05-10 20:44:00,Offline,Piso 3,Hambúrguer,Comida,2
+681,Liga,2026-05-10 19:09:00,Offline,Stand B,Cocktail,Bebida,2
+682,Liga,2026-05-10 20:44:00,Offline,Stand C,Merchandising,Outros,1
+682,Liga,2026-05-10 20:44:00,Offline,Stand C,Cocktail,Bebida,1
+683,Liga,2026-05-10 20:37:00,Online,Online,Água,Bebida,3
+683,Liga,2026-05-10 20:37:00,Online,Online,Hot Dog,Comida,2
+684,Champions,2026-05-10 19:47:00,Online,Online,Hot Dog,Comida,3
+685,Champions,2026-05-10 20:13:00,Online,Online,Batata Frita,Comida,3
+685,Champions,2026-05-10 20:13:00,Online,Online,Refrigerante,Bebida,3
+685,Champions,2026-05-10 20:13:00,Online,Online,Nachos,Comida,1
+686,Champions,2026-05-10 20:06:00,Offline,Stand A,Hambúrguer,Comida,3
+687,Liga,2026-05-10 19:57:00,Offline,Piso 3,Hambúrguer,Comida,3
+688,Champions,2026-05-10 19:50:00,Offline,Piso 3,Hambúrguer,Comida,2
+689,Champions,2026-05-10 19:34:00,Offline,Stand C,Cocktail,Bebida,3
+690,Champions,2026-05-10 19:12:00,Online,Online,Batata Frita,Comida,3
+690,Champions,2026-05-10 19:12:00,Online,Online,Merchandising,Outros,2
+691,Liga,2026-05-10 19:16:00,Offline,Camarote,Nachos,Comida,3
+692,Champions,2026-05-10 19:57:00,Online,Online,Vinho,Bebida,3
+692,Champions,2026-05-10 19:57:00,Online,Online,Nachos,Comida,2
+692,Champions,2026-05-10 19:57:00,Online,Online,Pizza,Comida,3
+693,Champions,2026-05-10 19:25:00,Online,Online,Hot Dog,Comida,1
+693,Champions,2026-05-10 19:25:00,Online,Online,Batata Frita,Comida,2
+693,Champions,2026-05-10 19:25:00,Online,Online,Hambúrguer,Comida,1
+694,Champions,2026-05-10 20:33:00,Offline,Stand B,Água,Bebida,3
+695,Champions,2026-05-10 20:18:00,Online,Online,Nachos,Comida,2
+695,Champions,2026-05-10 20:18:00,Online,Online,Água,Bebida,1
+696,Liga,2026-05-10 19:15:00,Offline,Piso 0,Água,Bebida,3
+696,Liga,2026-05-10 19:15:00,Offline,Piso 0,Refrigerante,Bebida,2
+697,Liga,2026-05-10 19:29:00,Offline,Camarote,Cerveja,Bebida,1
+697,Liga,2026-05-10 19:29:00,Offline,Camarote,Cocktail,Bebida,3
+698,Champions,2026-05-10 19:58:00,Online,Online,Vinho,Bebida,1
+698,Champions,2026-05-10 19:58:00,Online,Online,Batata Frita,Comida,2
+699,Liga,2026-05-10 19:19:00,Online,Online,Hot Dog,Comida,2
+699,Liga,2026-05-10 19:19:00,Online,Online,Hambúrguer,Comida,3
+700,Champions,2026-05-10 19:35:00,Offline,Stand B,Batata Frita,Comida,3
+701,Champions,2026-05-10 19:47:00,Offline,Camarote,Vinho,Bebida,2
+702,Champions,2026-05-10 20:03:00,Offline,Stand C,Hot Dog,Comida,2
+703,Champions,2026-05-10 19:35:00,Online,Online,Vinho,Bebida,1
+703,Champions,2026-05-10 19:35:00,Online,Online,Batata Frita,Comida,2
+703,Champions,2026-05-10 19:35:00,Online,Online,Pizza,Comida,2
+704,Champions,2026-05-10 20:06:00,Offline,Piso 0,Vinho,Bebida,3
+705,Champions,2026-05-10 19:28:00,Online,Online,Pizza,Comida,1
+706,Liga,2026-05-10 19:38:00,Offline,Piso 0,Refrigerante,Bebida,3
+707,Liga,2026-05-10 20:26:00,Online,Online,Vinho,Bebida,1
+708,Liga,2026-05-10 19:30:00,Offline,Stand A,Merchandising,Outros,1
+709,Liga,2026-05-10 19:09:00,Offline,Piso 0,Refrigerante,Bebida,2
+710,Champions,2026-05-10 20:05:00,Online,Online,Cerveja,Bebida,1
+711,Liga,2026-05-10 19:05:00,Offline,Stand B,Pizza,Comida,3
+712,Champions,2026-05-10 19:20:00,Offline,Stand B,Nachos,Comida,2
+712,Champions,2026-05-10 19:20:00,Offline,Stand B,Água,Bebida,1
+713,Champions,2026-05-10 19:59:00,Offline,Stand B,Cerveja,Bebida,1
+713,Champions,2026-05-10 19:59:00,Offline,Stand B,Batata Frita,Comida,1
+714,Champions,2026-05-10 19:39:00,Offline,Stand C,Hot Dog,Comida,2
+714,Champions,2026-05-10 19:39:00,Offline,Stand C,Merchandising,Outros,1
+715,Champions,2026-05-10 19:57:00,Online,Online,Água,Bebida,3
+715,Champions,2026-05-10 19:57:00,Online,Online,Pizza,Comida,3
+716,Champions,2026-05-10 19:52:00,Online,Online,Refrigerante,Bebida,2
+716,Champions,2026-05-10 19:52:00,Online,Online,Água,Bebida,3
+717,Liga,2026-05-10 19:17:00,Offline,Stand B,Refrigerante,Bebida,3
+718,Champions,2026-05-10 20:08:00,Offline,Piso 3,Pizza,Comida,1
+718,Champions,2026-05-10 20:08:00,Offline,Piso 3,Refrigerante,Bebida,2
+719,Champions,2026-05-10 19:51:00,Offline,Camarote,Hot Dog,Comida,2
+720,Liga,2026-05-10 20:39:00,Online,Online,Cocktail,Bebida,2
+720,Liga,2026-05-10 20:39:00,Online,Online,Pizza,Comida,3
+721,Champions,2026-05-10 20:01:00,Offline,Piso 0,Nachos,Comida,1
+721,Champions,2026-05-10 20:01:00,Offline,Piso 0,Cerveja,Bebida,3
+722,Champions,2026-05-10 19:58:00,Online,Online,Batata Frita,Comida,1
+723,Champions,2026-05-10 20:20:00,Offline,Piso 0,Hot Dog,Comida,3
+723,Champions,2026-05-10 20:20:00,Offline,Piso 0,Merchandising,Outros,3
+724,Liga,2026-05-10 20:40:00,Online,Online,Refrigerante,Bebida,2
+724,Liga,2026-05-10 20:40:00,Online,Online,Cerveja,Bebida,2
+725,Champions,2026-05-10 20:10:00,Online,Online,Hambúrguer,Comida,2
+725,Champions,2026-05-10 20:10:00,Online,Online,Vinho,Bebida,2
+726,Champions,2026-05-10 19:52:00,Online,Online,Hambúrguer,Comida,3
+726,Champions,2026-05-10 19:52:00,Online,Online,Vinho,Bebida,1
+726,Champions,2026-05-10 19:52:00,Online,Online,Cerveja,Bebida,1
+727,Liga,2026-05-10 19:11:00,Offline,Stand B,Cocktail,Bebida,3
+727,Liga,2026-05-10 19:11:00,Offline,Stand B,Nachos,Comida,2
+728,Liga,2026-05-10 20:05:00,Online,Online,Cerveja,Bebida,3
+728,Liga,2026-05-10 20:05:00,Online,Online,Merchandising,Outros,1
+728,Liga,2026-05-10 20:05:00,Online,Online,Água,Bebida,2
+729,Liga,2026-05-10 19:54:00,Online,Online,Hot Dog,Comida,3
+729,Liga,2026-05-10 19:54:00,Online,Online,Hambúrguer,Comida,1
+729,Liga,2026-05-10 19:54:00,Online,Online,Merchandising,Outros,2
+730,Champions,2026-05-10 19:30:00,Online,Online,Merchandising,Outros,3
+730,Champions,2026-05-10 19:30:00,Online,Online,Hot Dog,Comida,3
+731,Liga,2026-05-10 19:53:00,Offline,Camarote,Vinho,Bebida,2
+731,Liga,2026-05-10 19:53:00,Offline,Camarote,Água,Bebida,1
+732,Champions,2026-05-10 19:24:00,Offline,Stand B,Água,Bebida,3
+733,Liga,2026-05-10 20:42:00,Online,Online,Cerveja,Bebida,3
+734,Liga,2026-05-10 19:26:00,Offline,Piso 0,Nachos,Comida,3
+735,Liga,2026-05-10 20:24:00,Offline,Piso 0,Hambúrguer,Comida,1
+735,Liga,2026-05-10 20:24:00,Offline,Piso 0,Cerveja,Bebida,3
+736,Champions,2026-05-10 19:37:00,Offline,Stand B,Cerveja,Bebida,1
+736,Champions,2026-05-10 19:37:00,Offline,Stand B,Hambúrguer,Comida,3
+737,Liga,2026-05-10 19:04:00,Online,Online,Cocktail,Bebida,1
+737,Liga,2026-05-10 19:04:00,Online,Online,Água,Bebida,2
+738,Champions,2026-05-10 19:13:00,Online,Online,Água,Bebida,1
+738,Champions,2026-05-10 19:13:00,Online,Online,Refrigerante,Bebida,1
+739,Liga,2026-05-10 20:36:00,Offline,Camarote,Batata Frita,Comida,1
+740,Champions,2026-05-10 19:33:00,Offline,Camarote,Cocktail,Bebida,3
+740,Champions,2026-05-10 19:33:00,Offline,Camarote,Hambúrguer,Comida,3
+741,Champions,2026-05-10 19:20:00,Online,Online,Merchandising,Outros,2
+742,Champions,2026-05-10 20:26:00,Online,Online,Hot Dog,Comida,2
+743,Champions,2026-05-10 20:04:00,Online,Online,Cocktail,Bebida,1
+744,Liga,2026-05-10 19:50:00,Online,Online,Hambúrguer,Comida,1
+745,Liga,2026-05-10 19:54:00,Online,Online,Água,Bebida,2
+745,Liga,2026-05-10 19:54:00,Online,Online,Hot Dog,Comida,2
+746,Champions,2026-05-10 19:32:00,Online,Online,Vinho,Bebida,3
+746,Champions,2026-05-10 19:32:00,Online,Online,Hambúrguer,Comida,3
+746,Champions,2026-05-10 19:32:00,Online,Online,Água,Bebida,3
+747,Liga,2026-05-10 20:21:00,Offline,Camarote,Vinho,Bebida,1
+747,Liga,2026-05-10 20:21:00,Offline,Camarote,Água,Bebida,3
+748,Liga,2026-05-10 19:08:00,Online,Online,Vinho,Bebida,3
+748,Liga,2026-05-10 19:08:00,Online,Online,Nachos,Comida,2
+749,Liga,2026-05-10 19:09:00,Online,Online,Cerveja,Bebida,2
+750,Liga,2026-05-10 19:15:00,Online,Online,Hot Dog,Comida,1
+750,Liga,2026-05-10 19:15:00,Online,Online,Cocktail,Bebida,3
+750,Liga,2026-05-10 19:15:00,Online,Online,Cerveja,Bebida,2
+751,Liga,2026-05-10 19:29:00,Offline,Piso 3,Hot Dog,Comida,2
+752,Liga,2026-05-10 20:28:00,Offline,Piso 3,Hambúrguer,Comida,2
+753,Champions,2026-05-10 19:16:00,Offline,Stand A,Água,Bebida,1
+753,Champions,2026-05-10 19:16:00,Offline,Stand A,Merchandising,Outros,2
+754,Champions,2026-05-10 19:35:00,Offline,Stand A,Hot Dog,Comida,3
+755,Liga,2026-05-10 20:05:00,Online,Online,Refrigerante,Bebida,2
+755,Liga,2026-05-10 20:05:00,Online,Online,Nachos,Comida,1
+756,Liga,2026-05-10 19:58:00,Online,Online,Nachos,Comida,2
+756,Liga,2026-05-10 19:58:00,Online,Online,Cerveja,Bebida,3
+757,Champions,2026-05-10 19:42:00,Online,Online,Água,Bebida,3
+758,Liga,2026-05-10 19:22:00,Offline,Stand A,Merchandising,Outros,1
+758,Liga,2026-05-10 19:22:00,Offline,Stand A,Batata Frita,Comida,2
+759,Champions,2026-05-10 20:22:00,Offline,Piso 0,Nachos,Comida,1
+760,Liga,2026-05-10 19:03:00,Online,Online,Água,Bebida,1
+760,Liga,2026-05-10 19:03:00,Online,Online,Cerveja,Bebida,2
+760,Liga,2026-05-10 19:03:00,Online,Online,Merchandising,Outros,2
+761,Champions,2026-05-10 19:45:00,Offline,Camarote,Cerveja,Bebida,3
+762,Liga,2026-05-10 19:08:00,Online,Online,Refrigerante,Bebida,2
+762,Liga,2026-05-10 19:08:00,Online,Online,Hambúrguer,Comida,3
+762,Liga,2026-05-10 19:08:00,Online,Online,Merchandising,Outros,2
+763,Champions,2026-05-10 19:04:00,Offline,Stand A,Cocktail,Bebida,3
+763,Champions,2026-05-10 19:04:00,Offline,Stand A,Refrigerante,Bebida,1
+764,Champions,2026-05-10 20:32:00,Online,Online,Batata Frita,Comida,3
+765,Champions,2026-05-10 20:07:00,Offline,Stand C,Batata Frita,Comida,2
+765,Champions,2026-05-10 20:07:00,Offline,Stand C,Hambúrguer,Comida,3
+766,Liga,2026-05-10 19:49:00,Offline,Stand C,Refrigerante,Bebida,1
+767,Liga,2026-05-10 20:37:00,Online,Online,Cerveja,Bebida,3
+767,Liga,2026-05-10 20:37:00,Online,Online,Água,Bebida,2
+767,Liga,2026-05-10 20:37:00,Online,Online,Cocktail,Bebida,1
+768,Liga,2026-05-10 20:09:00,Online,Online,Cerveja,Bebida,1
+769,Champions,2026-05-10 20:18:00,Offline,Camarote,Vinho,Bebida,3
+770,Liga,2026-05-10 19:36:00,Offline,Stand A,Merchandising,Outros,2
+770,Liga,2026-05-10 19:36:00,Offline,Stand A,Cerveja,Bebida,3
+771,Liga,2026-05-10 20:42:00,Online,Online,Cerveja,Bebida,2
+771,Liga,2026-05-10 20:42:00,Online,Online,Vinho,Bebida,3
+771,Liga,2026-05-10 20:42:00,Online,Online,Refrigerante,Bebida,2
+772,Liga,2026-05-10 19:12:00,Online,Online,Refrigerante,Bebida,3
+772,Liga,2026-05-10 19:12:00,Online,Online,Merchandising,Outros,2
+772,Liga,2026-05-10 19:12:00,Online,Online,Cerveja,Bebida,1
+773,Champions,2026-05-10 20:34:00,Offline,Stand B,Pizza,Comida,2
+774,Champions,2026-05-10 19:36:00,Online,Online,Batata Frita,Comida,1
+775,Champions,2026-05-10 19:46:00,Online,Online,Batata Frita,Comida,1
+775,Champions,2026-05-10 19:46:00,Online,Online,Cocktail,Bebida,1
+776,Champions,2026-05-10 20:22:00,Online,Online,Cocktail,Bebida,1
+777,Champions,2026-05-10 19:18:00,Offline,Piso 3,Pizza,Comida,1
+777,Champions,2026-05-10 19:18:00,Offline,Piso 3,Nachos,Comida,1
+778,Champions,2026-05-10 19:55:00,Offline,Camarote,Refrigerante,Bebida,2
+778,Champions,2026-05-10 19:55:00,Offline,Camarote,Cocktail,Bebida,1
+779,Champions,2026-05-10 19:33:00,Offline,Piso 0,Água,Bebida,1
+780,Champions,2026-05-10 19:45:00,Online,Online,Cerveja,Bebida,1
+781,Liga,2026-05-10 20:31:00,Online,Online,Hot Dog,Comida,2
+781,Liga,2026-05-10 20:31:00,Online,Online,Cocktail,Bebida,1
+782,Liga,2026-05-10 19:08:00,Online,Online,Batata Frita,Comida,2
+782,Liga,2026-05-10 19:08:00,Online,Online,Água,Bebida,2
+782,Liga,2026-05-10 19:08:00,Online,Online,Nachos,Comida,3
+783,Champions,2026-05-10 19:20:00,Online,Online,Refrigerante,Bebida,2
+783,Champions,2026-05-10 19:20:00,Online,Online,Vinho,Bebida,2
+784,Liga,2026-05-10 19:57:00,Offline,Stand C,Pizza,Comida,3
+785,Liga,2026-05-10 19:52:00,Offline,Stand C,Merchandising,Outros,2
+786,Champions,2026-05-10 19:56:00,Online,Online,Nachos,Comida,1
+787,Champions,2026-05-10 20:13:00,Online,Online,Merchandising,Outros,1
+787,Champions,2026-05-10 20:13:00,Online,Online,Batata Frita,Comida,1
+787,Champions,2026-05-10 20:13:00,Online,Online,Cocktail,Bebida,3
+788,Liga,2026-05-10 20:27:00,Offline,Stand A,Vinho,Bebida,2
+789,Liga,2026-05-10 20:19:00,Offline,Camarote,Merchandising,Outros,3
+790,Champions,2026-05-10 20:24:00,Offline,Piso 3,Vinho,Bebida,1
+790,Champions,2026-05-10 20:24:00,Offline,Piso 3,Hot Dog,Comida,3
+791,Champions,2026-05-10 19:59:00,Online,Online,Vinho,Bebida,2
+791,Champions,2026-05-10 19:59:00,Online,Online,Merchandising,Outros,2
+792,Champions,2026-05-10 19:14:00,Offline,Stand C,Água,Bebida,3
+792,Champions,2026-05-10 19:14:00,Offline,Stand C,Pizza,Comida,2
+793,Liga,2026-05-10 19:59:00,Online,Online,Cerveja,Bebida,3
+793,Liga,2026-05-10 19:59:00,Online,Online,Refrigerante,Bebida,1
+793,Liga,2026-05-10 19:59:00,Online,Online,Vinho,Bebida,1
+794,Champions,2026-05-10 19:58:00,Offline,Stand C,Hot Dog,Comida,1
+795,Champions,2026-05-10 20:13:00,Online,Online,Batata Frita,Comida,2
+796,Champions,2026-05-10 19:30:00,Online,Online,Hambúrguer,Comida,2
+797,Liga,2026-05-10 19:25:00,Online,Online,Água,Bebida,1
+797,Liga,2026-05-10 19:25:00,Online,Online,Batata Frita,Comida,1
+797,Liga,2026-05-10 19:25:00,Online,Online,Cerveja,Bebida,3
+798,Champions,2026-05-10 19:52:00,Online,Online,Água,Bebida,2
+799,Liga,2026-05-10 19:52:00,Offline,Stand A,Cocktail,Bebida,3
+799,Liga,2026-05-10 19:52:00,Offline,Stand A,Cerveja,Bebida,1
+800,Liga,2026-05-10 20:03:00,Offline,Stand C,Vinho,Bebida,1
