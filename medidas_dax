@@ -1,0 +1,44 @@
+% Quantidade =
+DIVIDE(
+    [Total Quantidade],
+    CALCULATE([Total Quantidade], ALL(Fato_Vendas))
+)
+
+
+Total Quantidade = SUM(Fato_Vendas[quantidade])
+
+Dim_Data =
+ADDCOLUMNS(
+    CALENDAR(
+        MIN(Fato_Vendas[Data]),
+        MAX(Fato_Vendas[Data])
+    ),
+    "Ano", YEAR([Date]),
+    "Mês", FORMAT([Date], "MMMM"),
+    "Mês_Num", MONTH([Date]),
+    "Dia", DAY([Date]),
+    "Dia_Semana", FORMAT([Date], "dddd"),
+    "Dia_Semana_Num", WEEKDAY([Date], 2)
+)
+
+
+Hora_Formatada = TIME(Fato_Vendas[Hora], 0, 0)
+
+
+"Vendas — " & SELECTEDVALUE(Fato_Vendas[liga], "Todas as Ligas")
+
+
+Itens Distintos = DISTINCTCOUNT(Fato_Vendas[item])
+
+
+Qtd Média por Pedido = 
+DIVIDE(
+    [Total Quantidade],
+    [Pedidos Únicos]
+)
+
+
+Pedidos Únicos = DISTINCTCOUNT(Fato_Vendas[pedido_id])
+
+
+Total Quantidade = SUM(Fato_Vendas[quantidade])
